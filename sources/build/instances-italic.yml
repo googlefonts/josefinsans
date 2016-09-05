@@ -1,0 +1,16 @@
+masters:
+    Light:
+        stem: 14
+    Bold:
+        stem: 143
+instances:
+    Thin:
+        stem: 14
+    Light:
+        stem: 41
+    Regular:
+        stem: 69
+    SemiBold:
+        stem: 109
+    Bold:
+        stem: 123

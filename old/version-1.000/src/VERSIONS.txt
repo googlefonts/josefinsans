@@ -1,0 +1,10 @@
+JosefinSans-Bold.ttf: Unknown
+JosefinSans-BoldItalic.ttf: Unknown
+JosefinSans-Italic.ttf: Unknown
+JosefinSans-Light.ttf: Unknown
+JosefinSans-LightItalic.ttf: Unknown
+JosefinSans-Regular.ttf: Unknown
+JosefinSans-SemiBold.ttf: Unknown
+JosefinSans-SemiBoldItalic.ttf: Unknown
+JosefinSans-Thin.ttf: Unknown
+JosefinSans-ThinItalic.ttf: Unknown
