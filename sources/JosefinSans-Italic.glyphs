@@ -27589,7 +27589,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2016-12-17 19:20:13 +0000";
+lastChange = "2016-12-19 16:44:48 +0000";
 layers = (
 {
 anchors = (
@@ -27733,7 +27733,6 @@ nodes = (
 width = 343;
 }
 );
-leftKerningGroup = n;
 leftMetricsKey = n;
 rightKerningGroup = r;
 unicode = 0072;
@@ -53652,6 +53651,7 @@ f = 0;
 b = 0;
 i = -57;
 z = -71;
+r = -100;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -10;
@@ -54322,6 +54322,7 @@ AE = -16;
 b = 0;
 i = -42;
 z = -73;
+r = -120;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -13;
@@ -55050,6 +55051,7 @@ f = 0;
 AE = -60;
 b = 0;
 z = -80;
+r = -100;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -20;

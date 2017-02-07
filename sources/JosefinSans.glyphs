@@ -22632,7 +22632,7 @@ unicode = 0129;
 },
 {
 glyphname = j;
-lastChange = "2016-12-17 19:41:30 +0000";
+lastChange = "2016-12-19 16:42:04 +0000";
 layers = (
 {
 components = (
@@ -22641,7 +22641,7 @@ name = jdotless;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 25, -40}";
+transform = "{1, 0, 0, 1, 25, -10}";
 }
 );
 hints = (
@@ -22695,7 +22695,7 @@ name = jdotless;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 28, -35}";
+transform = "{1, 0, 0, 1, 28, 5}";
 }
 );
 hints = (
