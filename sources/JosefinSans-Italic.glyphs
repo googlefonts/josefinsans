@@ -40798,7 +40798,7 @@ unicode = 00A4;
 },
 {
 glyphname = dollar;
-lastChange = "2016-12-17 19:11:43 +0000";
+lastChange = "2017-02-08 12:25:17 +0000";
 layers = (
 {
 components = (
@@ -40843,10 +40843,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"256 -68 LINE",
 "270 -68 LINE",
-"372 764 LINE",
-"358 764 LINE"
+"324 375 LINE",
+"324 380 LINE",
+"371 764 LINE",
+"357 764 LINE",
+"311 387 LINE",
+"311 381 LINE",
+"256 -68 LINE"
 );
 }
 );
@@ -40895,10 +40899,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"219 -68 LINE",
-"303 -68 LINE",
-"409 804 LINE",
-"325 804 LINE"
+"283 -68 LINE",
+"332 337 LINE",
+"387 376 LINE",
+"439 804 LINE",
+"355 804 LINE",
+"307 413 LINE",
+"252 374 LINE",
+"199 -68 LINE"
 );
 }
 );
@@ -40947,10 +40955,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"246 -68 LINE",
 "279 -68 LINE",
+"331 356 LINE",
+"334 383 LINE",
 "382 775 LINE",
-"349 775 LINE"
+"349 775 LINE",
+"302 393 LINE",
+"299 368 LINE",
+"246 -68 LINE"
 );
 }
 );
@@ -53482,6 +53494,17 @@ linkStyle = Regular;
 name = "Regular Italic";
 },
 {
+interpolationWeight = 120;
+instanceInterpolations = {
+"CDFC318D-9074-479A-9964-89F765A9D31D" = 0.3;
+UUID1 = 0.7;
+};
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+weightClass = SemiBold;
+},
+{
 customParameters = (
 {
 name = typoDescender;
@@ -53650,8 +53673,8 @@ f = 0;
 "@MMK_R_w" = 0;
 b = 0;
 i = -57;
-z = -71;
 r = -100;
+z = -71;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -10;
@@ -54321,8 +54344,8 @@ f = 0;
 AE = -16;
 b = 0;
 i = -42;
-z = -73;
 r = -120;
+z = -73;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -13;
@@ -55050,8 +55073,8 @@ f = 0;
 "@MMK_R_w" = 0;
 AE = -60;
 b = 0;
-z = -80;
 r = -100;
+z = -80;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -20;

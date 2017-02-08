@@ -1,5 +1,8 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+HH2HH
+);
 classes = (
 {
 automatic = 1;
@@ -33684,7 +33687,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2016-12-16 12:22:45 +0000";
+lastChange = "2017-02-08 12:20:14 +0000";
 layers = (
 {
 hints = (
@@ -33737,16 +33740,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"45 523 LINE",
-"98 523 LINE",
-"98 0 LINE",
-"244 0 LINE",
-"244 663 LINE",
-"45 663 LINE"
+"50 523 LINE",
+"103 523 LINE",
+"103 0 LINE",
+"249 0 LINE",
+"249 663 LINE",
+"50 663 LINE"
 );
 }
 );
-width = 339;
+width = 344;
 },
 {
 hints = (
@@ -33785,7 +33788,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2016-12-16 12:22:45 +0000";
+lastChange = "2017-02-08 12:23:34 +0000";
 layers = (
 {
 hints = (
@@ -33893,7 +33896,7 @@ nodes = (
 );
 }
 );
-width = 543;
+width = 583;
 },
 {
 hints = (
@@ -41612,7 +41615,7 @@ unicode = 00A4;
 },
 {
 glyphname = dollar;
-lastChange = "2016-12-16 12:22:45 +0000";
+lastChange = "2017-02-08 12:22:08 +0000";
 layers = (
 {
 components = (
@@ -41657,10 +41660,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"294 -68 LINE",
-"308 -68 LINE",
-"308 764 LINE",
-"294 764 LINE"
+"288 -68 LINE",
+"288 376 LINE",
+"288 381 LINE",
+"288 764 LINE",
+"274 764 LINE",
+"274 387 LINE",
+"274 381 LINE",
+"274 -68 LINE"
 );
 }
 );
@@ -41709,10 +41716,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"272 -68 LINE",
-"356 -68 LINE",
+"316 -68 LINE",
+"316 324 LINE",
+"356 385 LINE",
 "356 804 LINE",
-"272 804 LINE"
+"272 804 LINE",
+"272 413 LINE",
+"232 366 LINE",
+"232 -68 LINE"
 );
 }
 );
@@ -41761,10 +41772,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"288 -68 LINE",
 "321 -68 LINE",
+"321 369 LINE",
+"321 392 LINE",
 "321 775 LINE",
-"288 775 LINE"
+"288 775 LINE",
+"288 391 LINE",
+"288 373 LINE",
+"288 -68 LINE"
 );
 }
 );
@@ -56424,6 +56439,15 @@ UUID1 = 0.5;
 "4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.5;
 };
 name = Regular;
+},
+{
+interpolationWeight = 120;
+instanceInterpolations = {
+UUID1 = 0.7;
+"4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.3;
+};
+name = SemiBold;
+weightClass = SemiBold;
 },
 {
 interpolationWeight = 150;
