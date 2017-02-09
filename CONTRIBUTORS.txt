@@ -9,3 +9,6 @@
 # Names should be added to this file as:
 # Name <email address>
 
+ThomasJockin <thomas@thomasjockin.com>
+CrystalType <stellarmaris.novachrystalia@gmail.com>
+Marc Foley <m.foley.88@gmail.com>
