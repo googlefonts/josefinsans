@@ -1,10 +1,6 @@
 {
-.appVersion = "983";
-DisplayStrings = (
-/mu,
-"\U00E6"
-);
-copyright = "Copyright 2010 The Josefin Sans Project Authors (hi@typemade.mx), with Reserved Font Name \"Josefin Sans\".";
+.appVersion = "1032";
+copyright = "Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name \"Josefin Sans\".";
 customParameters = (
 {
 name = licenseURL;
@@ -55056,8 +55052,8 @@ value = 991;
 );
 interpolationWeight = 20;
 instanceInterpolations = {
-UUID0 = 0.833333;
-"CDFC318D-9074-479A-9964-89F765A9D31D" = 0.166667;
+"CDFC318D-9074-479A-9964-89F765A9D31D" = 0.16667;
+UUID0 = 0.83333;
 };
 isItalic = 1;
 linkStyle = Thin;

@@ -1,5 +1,5 @@
 {
-.appVersion = "983";
+.appVersion = "1032";
 DisplayStrings = (
 /naira
 );
@@ -10,7 +10,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2010 The Josefin Sans Project Authors (hi@typemade.mx), with Reserved Font Name \"Josefin Sans\".";
+copyright = "Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name \"Josefin Sans\".";
 customParameters = (
 {
 name = licenseURL;
@@ -56567,8 +56567,8 @@ instances = (
 {
 interpolationWeight = 20;
 instanceInterpolations = {
-UUID0 = 0.833333;
-"4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.166667;
+"4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.16667;
+UUID0 = 0.83333;
 };
 name = Thin;
 weightClass = Thin;
@@ -56583,16 +56583,16 @@ weightClass = Light;
 },
 {
 instanceInterpolations = {
-UUID1 = 0.5;
 "4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.5;
+UUID1 = 0.5;
 };
 name = Regular;
 },
 {
 interpolationWeight = 120;
 instanceInterpolations = {
-UUID1 = 0.7;
 "4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9" = 0.3;
+UUID1 = 0.7;
 };
 name = SemiBold;
 weightClass = SemiBold;
