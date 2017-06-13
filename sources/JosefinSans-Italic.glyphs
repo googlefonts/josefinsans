@@ -121,11 +121,11 @@ value = -250;
 },
 {
 name = winDescent;
-value = 271;
+value = 324;
 },
 {
 name = winAscent;
-value = 991;
+value = 1242;
 }
 );
 descender = -250;
@@ -182,11 +182,11 @@ value = -250;
 },
 {
 name = winDescent;
-value = 271;
+value = 324;
 },
 {
 name = winAscent;
-value = 991;
+value = 1242;
 }
 );
 descender = -239;
@@ -242,11 +242,11 @@ value = -250;
 },
 {
 name = winDescent;
-value = 271;
+value = 324;
 },
 {
 name = winAscent;
-value = 991;
+value = 1242;
 }
 );
 descender = -210;
