@@ -1,7 +1,8 @@
 {
 .appVersion = "1032";
 DisplayStrings = (
-/naira
+j,
+/nj
 );
 classes = (
 {
@@ -22773,38 +22774,6 @@ width = 224;
 leftMetricsKey = j;
 rightMetricsKey = j;
 unicode = 0237;
-},
-{
-glyphname = dotlessj;
-layers = (
-{
-components = (
-{
-name = jdotless;
-}
-);
-layerId = UUID0;
-width = 214;
-},
-{
-components = (
-{
-name = jdotless;
-}
-);
-layerId = UUID1;
-width = 295;
-},
-{
-components = (
-{
-name = jdotless;
-}
-);
-layerId = "4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9";
-width = 224;
-}
-);
 },
 {
 glyphname = jcircumflex;
