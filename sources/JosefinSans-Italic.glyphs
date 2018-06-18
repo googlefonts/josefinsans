@@ -1,5 +1,5 @@
 {
-.appVersion = "1032";
+.appVersion = "1147";
 copyright = "Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name \"Josefin Sans\".";
 customParameters = (
 {
@@ -1471,10 +1471,12 @@ transform = "{1, 0, 0, 1, 149, 351}";
 hints = (
 {
 place = "{308, 126}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{775, 126}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -1493,10 +1495,12 @@ transform = "{1, 0, 0, 1, 226, 308}";
 hints = (
 {
 place = "{339, 65}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{805, 65}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -1515,10 +1519,12 @@ transform = "{1, 0, 0, 1, 169, 340}";
 hints = (
 {
 place = "{316.206, 109.853}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{782.941, 109.853}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -1908,6 +1914,7 @@ position = "{328, 700}";
 hints = (
 {
 place = "{418, 41}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -1990,6 +1997,7 @@ position = "{288, 700}";
 hints = (
 {
 place = "{377, 108}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -2072,6 +2080,7 @@ position = "{317, 700}";
 hints = (
 {
 place = "{407.147, 58.735}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -2447,6 +2456,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-223, 229}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -2472,6 +2482,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-250, 321}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -2497,6 +2508,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-230.147, 253.353}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -12924,7 +12936,7 @@ transform = "{1, 0, 0, 1, 623, -85}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -12972,7 +12984,7 @@ transform = "{1, 0, 0, 1, 326, 293}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -13019,7 +13031,7 @@ transform = "{1, 0, 0, 1, 270, 0}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -13066,7 +13078,7 @@ transform = "{1, 0, 0, 1, 256, 293}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -13113,7 +13125,7 @@ transform = "{1, 0, 0, 1, 282, 198}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -13160,7 +13172,7 @@ transform = "{1, 0, 0, 1, 152, 293}";
 }
 );
 layerId = UUID1;
-width = 876;
+width = 787;
 },
 {
 components = (
@@ -16506,10 +16518,12 @@ transform = "{1, 0, 0, 1, -13, 0}";
 hints = (
 {
 place = "{187, 126}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{477, 126}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -16528,10 +16542,12 @@ transform = "{1, 0, 0, 1, 175, 33}";
 hints = (
 {
 place = "{218, 65}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{507, 65}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -16550,10 +16566,12 @@ transform = "{1, 0, 0, 1, 36, 9}";
 hints = (
 {
 place = "{195.206, 109.853}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{484.941, 109.853}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -16685,10 +16703,12 @@ hints = (
 {
 horizontal = 1;
 place = "{-6, 199}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{179, 204}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -16805,10 +16825,12 @@ hints = (
 {
 horizontal = 1;
 place = "{-8, 230}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{136, 249}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -16925,10 +16947,12 @@ hints = (
 {
 horizontal = 1;
 place = "{-6.529, 207.206}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{167.618, 215.912}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -17689,6 +17713,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-223, 231}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -17787,6 +17812,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-244, 316}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -17885,6 +17911,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-228.559, 253.5}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -23183,7 +23210,7 @@ transform = "{1, 0, 0, 1, 240, 796}";
 }
 );
 layerId = UUID0;
-width = 252;
+width = 204;
 },
 {
 components = (
@@ -23197,7 +23224,7 @@ transform = "{1, 0, 0, 1, 287, 798}";
 }
 );
 layerId = UUID1;
-width = 394;
+width = 285;
 },
 {
 components = (
@@ -23211,7 +23238,7 @@ transform = "{1, 0, 0, 1, 252, 797}";
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
-width = 290;
+width = 226;
 }
 );
 unicode = 013E;
@@ -27992,6 +28019,7 @@ position = "{194, 375}";
 hints = (
 {
 place = "{99, 215}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -28068,6 +28096,7 @@ position = "{270, 500}";
 hints = (
 {
 place = "{62, 243}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -28144,6 +28173,7 @@ position = "{214, 408}";
 hints = (
 {
 place = "{89.206, 222.412}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -28442,6 +28472,7 @@ layers = (
 hints = (
 {
 place = "{407, 78}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -28516,6 +28547,7 @@ width = 545;
 hints = (
 {
 place = "{360, 142}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -28590,6 +28622,7 @@ width = 638;
 hints = (
 {
 place = "{394.559, 94.941}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -29606,7 +29639,7 @@ transform = "{1, 0, 0, 1, 387, -383}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -29652,7 +29685,7 @@ transform = "{1, 0, 0, 1, 197, 63}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -29697,7 +29730,7 @@ transform = "{1, 0, 0, 1, 204, -20}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -29742,7 +29775,7 @@ transform = "{1, 0, 0, 1, 127, 63}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -29787,7 +29820,7 @@ transform = "{1, 0, 0, 1, 153, -32}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -29832,7 +29865,7 @@ transform = "{1, 0, 0, 1, 23, 63}";
 }
 );
 layerId = UUID1;
-width = 682;
+width = 584;
 },
 {
 components = (
@@ -34597,9 +34630,11 @@ layers = (
 hints = (
 {
 place = "{53, 69}";
+type = Stem;
 },
 {
 place = "{382, 78}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -34686,9 +34721,11 @@ width = 509;
 hints = (
 {
 place = "{36, 144}";
+type = Stem;
 },
 {
 place = "{330, 142}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -34775,9 +34812,11 @@ width = 573;
 hints = (
 {
 place = "{48.5, 88.853}";
+type = Stem;
 },
 {
 place = "{368.235, 94.941}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -36146,10 +36185,12 @@ layers = (
 hints = (
 {
 place = "{174, 131}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{235, 131}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -36179,10 +36220,12 @@ width = 479;
 hints = (
 {
 place = "{113, 254}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{174, 254}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -36212,10 +36255,12 @@ width = 488;
 hints = (
 {
 place = "{157.853, 163.559}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{218.853, 163.559}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -36251,6 +36296,7 @@ layers = (
 hints = (
 {
 place = "{65, 40}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -36310,6 +36356,7 @@ width = 175;
 hints = (
 {
 place = "{33, 103}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -36369,6 +36416,7 @@ width = 179;
 hints = (
 {
 place = "{56.529, 56.676}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37022,6 +37070,7 @@ hints = (
 {
 horizontal = 1;
 place = "{225, 196}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37120,6 +37169,7 @@ hints = (
 {
 horizontal = 1;
 place = "{188, 264}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37218,6 +37268,7 @@ hints = (
 {
 horizontal = 1;
 place = "{215.206, 214}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37706,6 +37757,7 @@ layers = (
 hints = (
 {
 place = "{63, 151}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37751,6 +37803,7 @@ width = 293;
 hints = (
 {
 place = "{63, 216}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37796,6 +37849,7 @@ width = 366;
 hints = (
 {
 place = "{63, 168.206}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -38368,6 +38422,7 @@ hints = (
 {
 horizontal = 1;
 place = "{287, 24}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -38421,6 +38476,7 @@ hints = (
 {
 horizontal = 1;
 place = "{256, 81}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -38474,6 +38530,7 @@ hints = (
 {
 horizontal = 1;
 place = "{278.794, 39.088}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -38533,6 +38590,7 @@ hints = (
 {
 horizontal = 1;
 place = "{287, 24}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -38586,6 +38644,7 @@ hints = (
 {
 horizontal = 1;
 place = "{256, 81}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -38639,6 +38698,7 @@ hints = (
 {
 horizontal = 1;
 place = "{278.794, 39.088}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -40834,6 +40894,7 @@ name = c;
 hints = (
 {
 place = "{36, 193}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -40871,6 +40932,7 @@ name = c;
 hints = (
 {
 place = "{36, 227}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -40908,6 +40970,7 @@ name = c;
 hints = (
 {
 place = "{36, 202}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -41310,9 +41373,11 @@ name = S;
 hints = (
 {
 place = "{100, 178}";
+type = Stem;
 },
 {
 place = "{264, 220}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -41366,9 +41431,11 @@ name = S;
 hints = (
 {
 place = "{74, 242}";
+type = Stem;
 },
 {
 place = "{232, 252}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -41422,9 +41489,11 @@ name = S;
 hints = (
 {
 place = "{93.118, 194.941}";
+type = Stem;
 },
 {
 place = "{255.529, 228.471}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -41690,6 +41759,7 @@ hints = (
 {
 horizontal = 1;
 place = "{150, 208}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -41726,6 +41796,7 @@ hints = (
 {
 horizontal = 1;
 place = "{112, 275}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -41762,6 +41833,7 @@ hints = (
 {
 horizontal = 1;
 place = "{139.941, 225.735}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -43565,6 +43637,7 @@ hints = (
 {
 horizontal = 1;
 place = "{100, 177}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -43646,6 +43719,7 @@ hints = (
 {
 horizontal = 1;
 place = "{100, 244}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -43715,6 +43789,7 @@ hints = (
 {
 horizontal = 1;
 place = "{100, 194.735}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -44247,6 +44322,7 @@ layers = (
 hints = (
 {
 place = "{231, 40}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -44327,6 +44403,7 @@ width = 501;
 hints = (
 {
 place = "{202, 103}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -44407,6 +44484,7 @@ width = 510;
 hints = (
 {
 place = "{223.324, 56.676}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -44494,6 +44572,7 @@ hints = (
 {
 horizontal = 1;
 place = "{150, 208}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -44524,6 +44603,7 @@ hints = (
 {
 horizontal = 1;
 place = "{112, 275}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -44554,6 +44634,7 @@ hints = (
 {
 horizontal = 1;
 place = "{139.941, 225.735}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -46670,17 +46751,21 @@ layers = (
 hints = (
 {
 place = "{108, 220}";
+type = Stem;
 },
 {
 place = "{412, 220}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{4, 217}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{280, 217}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -46781,17 +46866,21 @@ width = 754;
 hints = (
 {
 place = "{90, 256}";
+type = Stem;
 },
 {
 place = "{394, 256}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-16, 253}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{262, 253}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -46892,17 +46981,21 @@ width = 850;
 hints = (
 {
 place = "{103.235, 229.529}";
+type = Stem;
 },
 {
 place = "{407.235, 229.529}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-1.294, 226.529}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{275.235, 226.529}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -47009,17 +47102,21 @@ layers = (
 hints = (
 {
 place = "{108, 220}";
+type = Stem;
 },
 {
 place = "{412, 220}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{4, 217}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{280, 217}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -47154,17 +47251,21 @@ width = 1021;
 hints = (
 {
 place = "{90, 256}";
+type = Stem;
 },
 {
 place = "{394, 256}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-16, 253}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{262, 253}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -47299,17 +47400,21 @@ width = 1209;
 hints = (
 {
 place = "{103.235, 229.529}";
+type = Stem;
 },
 {
 place = "{407.235, 229.529}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-1.294, 226.529}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{275.235, 226.529}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -47528,17 +47633,21 @@ layers = (
 hints = (
 {
 place = "{94, 216}";
+type = Stem;
 },
 {
 place = "{671, 214}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-207, 215}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{369, 216}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -47626,17 +47735,21 @@ width = 959;
 hints = (
 {
 place = "{65, 303}";
+type = Stem;
 },
 {
 place = "{602, 308}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-232, 304}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{303, 307}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -47724,17 +47837,21 @@ width = 1052;
 hints = (
 {
 place = "{86.324, 239.029}";
+type = Stem;
 },
 {
 place = "{652.735, 238.882}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-213.618, 238.559}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{351.529, 240.088}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -48067,9 +48184,11 @@ layers = (
 hints = (
 {
 place = "{38, 177}";
+type = Stem;
 },
 {
 place = "{201, 177}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -48112,9 +48231,11 @@ width = 489;
 hints = (
 {
 place = "{38, 246}";
+type = Stem;
 },
 {
 place = "{201, 246}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -48157,9 +48278,11 @@ width = 592;
 hints = (
 {
 place = "{38, 195.265}";
+type = Stem;
 },
 {
 place = "{201, 195.265}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -49237,10 +49360,12 @@ layers = (
 hints = (
 {
 place = "{61, 153}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{484, 152}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -49288,10 +49413,12 @@ width = 282;
 hints = (
 {
 place = "{90, 97}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{511, 97}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -49339,10 +49466,12 @@ width = 287;
 hints = (
 {
 place = "{68.676, 138.176}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{491.147, 137.441}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -49778,6 +49907,7 @@ type = TopGhost;
 {
 horizontal = 1;
 place = "{150, 208}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -49829,6 +49959,7 @@ type = TopGhost;
 {
 horizontal = 1;
 place = "{112, 275}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -49880,6 +50011,7 @@ type = TopGhost;
 {
 horizontal = 1;
 place = "{139.941, 225.735}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -53375,6 +53507,7 @@ hints = (
 {
 horizontal = 1;
 place = "{501, 40}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -53423,6 +53556,7 @@ hints = (
 {
 horizontal = 1;
 place = "{468, 105}";
+type = Stem;
 }
 );
 layerId = UUID1;
@@ -53471,6 +53605,7 @@ hints = (
 {
 horizontal = 1;
 place = "{492.265, 57.206}";
+type = Stem;
 }
 );
 layerId = "CDFC318D-9074-479A-9964-89F765A9D31D";
@@ -54866,7 +55001,7 @@ transform = "{1, 0, 0, 1, 189, -72}";
 },
 {
 alignment = -1;
-name = acutecomb.case;
+name = acutecomb;
 transform = "{1, 0, 0, 1, -34, -72}";
 }
 );
@@ -54923,8 +55058,17 @@ width = 581;
 glyphname = ff;
 layers = (
 {
+components = (
+{
+name = f;
+},
+{
+name = f;
+transform = "{1, 0, 0, 1, 284, 0}";
+}
+);
 layerId = UUID0;
-width = 600;
+width = 568;
 },
 {
 components = (
