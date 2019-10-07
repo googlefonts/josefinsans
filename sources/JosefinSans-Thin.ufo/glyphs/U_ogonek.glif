@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="692.83333"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="439.167" y="-188" type="curve"/>
+      <point x="472.833" y="-188"/>
+      <point x="501.167" y="-162.833"/>
+      <point x="515" y="-134" type="curve"/>
+      <point x="502.167" y="-125.167" type="line"/>
+      <point x="487.833" y="-150.5"/>
+      <point x="466.833" y="-170.333"/>
+      <point x="440.667" y="-170.333" type="curve"/>
+      <point x="413" y="-170.333"/>
+      <point x="386.167" y="-147"/>
+      <point x="386.167" y="-110.167" type="curve"/>
+      <point x="386.167" y="-59.333"/>
+      <point x="419.5" y="-13.833"/>
+      <point x="477.833" y="28.833" type="curve"/>
+      <point x="536" y="66.5"/>
+      <point x="574.667" y="132.333"/>
+      <point x="574.667" y="227.5" type="curve"/>
+      <point x="574.667" y="701.667" type="line"/>
+      <point x="555" y="701.667" type="line"/>
+      <point x="555" y="230" type="line"/>
+      <point x="555" y="90.167"/>
+      <point x="466" y="10.667"/>
+      <point x="346.333" y="10.667" type="curve"/>
+      <point x="225.167" y="10.667"/>
+      <point x="138" y="90.167"/>
+      <point x="138" y="230" type="curve"/>
+      <point x="138" y="701.667" type="line"/>
+      <point x="118.167" y="701.667" type="line"/>
+      <point x="118.167" y="227.833" type="line"/>
+      <point x="118.167" y="74.667"/>
+      <point x="215.167" y="-8"/>
+      <point x="346.333" y="-8" type="curve"/>
+      <point x="379.667" y="-8"/>
+      <point x="412.667" y="-2"/>
+      <point x="437.167" y="9" type="curve"/>
+      <point x="439.333" y="14.5" type="line"/>
+      <point x="431.667" y="11.833" type="line"/>
+      <point x="394" y="-18.667"/>
+      <point x="366.833" y="-66.667"/>
+      <point x="366.833" y="-110.667" type="curve"/>
+      <point x="366.833" y="-157.167"/>
+      <point x="401.167" y="-188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>26.412</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>734.412</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

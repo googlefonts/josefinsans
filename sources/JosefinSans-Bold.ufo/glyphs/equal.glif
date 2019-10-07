@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="722"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="102" y="412" type="line"/>
+      <point x="102" y="290" type="line"/>
+      <point x="618" y="290" type="line"/>
+      <point x="618" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="214" type="line"/>
+      <point x="102" y="92" type="line"/>
+      <point x="618" y="92" type="line"/>
+      <point x="618" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>112</integer>
+            <integer>275</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

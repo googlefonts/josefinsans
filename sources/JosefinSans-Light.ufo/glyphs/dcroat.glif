@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="562"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortcomb" xOffset="250" yOffset="352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

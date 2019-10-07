@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
+  <advance width="486.83333"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="361" y="-188" type="curve"/>
+      <point x="394.667" y="-188"/>
+      <point x="423" y="-162.833"/>
+      <point x="436.833" y="-134" type="curve"/>
+      <point x="424" y="-125.167" type="line"/>
+      <point x="409.667" y="-150.5"/>
+      <point x="388.667" y="-170.333"/>
+      <point x="362.667" y="-170.333" type="curve"/>
+      <point x="334.833" y="-170.333"/>
+      <point x="308" y="-147"/>
+      <point x="308" y="-110.167" type="curve"/>
+      <point x="308" y="-72.833"/>
+      <point x="338.5" y="-32.667"/>
+      <point x="392.667" y="0" type="curve"/>
+      <point x="384.833" y="4.833" type="line"/>
+      <point x="377.5" y="10" type="line"/>
+      <point x="329.167" y="-16.833"/>
+      <point x="288.667" y="-62.833"/>
+      <point x="288.667" y="-110.667" type="curve"/>
+      <point x="288.667" y="-157.167"/>
+      <point x="323" y="-188"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

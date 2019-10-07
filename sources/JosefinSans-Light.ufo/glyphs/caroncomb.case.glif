@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="224" y="448" name="_top"/>
+  <anchor x="225" y="693" name="top"/>
+  <outline>
+    <component base="caron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>434</integer>
+    </dict>
+  </lib>
+</glyph>

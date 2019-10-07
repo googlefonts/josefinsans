@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek" format="2">
+  <advance width="519"/>
+  <unicode hex="01EB"/>
+  <anchor x="306" y="-1" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="326" y="11" type="curve"/>
+      <point x="279" y="13" type="line"/>
+      <point x="224" y="-10"/>
+      <point x="186" y="-61"/>
+      <point x="186" y="-119" type="curve"/>
+      <point x="186" y="-170"/>
+      <point x="225" y="-205"/>
+      <point x="271" y="-206" type="curve"/>
+      <point x="307" y="-207"/>
+      <point x="344" y="-181"/>
+      <point x="363" y="-149" type="curve"/>
+      <point x="344" y="-125" type="line"/>
+      <point x="327" y="-152"/>
+      <point x="305" y="-171"/>
+      <point x="278" y="-170" type="curve"/>
+      <point x="252" y="-170"/>
+      <point x="227" y="-148"/>
+      <point x="228" y="-113" type="curve"/>
+      <point x="229" y="-53"/>
+      <point x="281" y="-12"/>
+      <point x="332" y="9" type="curve" smooth="yes"/>
+      <point x="422" y="41"/>
+      <point x="468" y="121"/>
+      <point x="468" y="212" type="curve" smooth="yes"/>
+      <point x="468" y="325"/>
+      <point x="379" y="402"/>
+      <point x="270" y="402" type="curve" smooth="yes"/>
+      <point x="116" y="402"/>
+      <point x="50" y="283"/>
+      <point x="50" y="183" type="curve" smooth="yes"/>
+      <point x="50" y="66"/>
+      <point x="143" y="-8"/>
+      <point x="248" y="-8" type="curve" smooth="yes"/>
+      <point x="282" y="-8"/>
+      <point x="303" y="0"/>
+    </contour>
+    <contour>
+      <point x="250" y="32" type="curve" smooth="yes"/>
+      <point x="167" y="32"/>
+      <point x="98" y="94"/>
+      <point x="98" y="185" type="curve" smooth="yes"/>
+      <point x="98" y="269"/>
+      <point x="151" y="362"/>
+      <point x="268" y="362" type="curve" smooth="yes"/>
+      <point x="349" y="362"/>
+      <point x="420" y="302"/>
+      <point x="420" y="209" type="curve" smooth="yes"/>
+      <point x="420" y="126"/>
+      <point x="368" y="32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-6.794</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>384</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

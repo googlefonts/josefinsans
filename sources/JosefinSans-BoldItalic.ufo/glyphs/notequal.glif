@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="722"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="671" y="490" type="curve"/>
+      <point x="609" y="554" type="line"/>
+      <point x="484" y="427"/>
+      <point x="226" y="166"/>
+      <point x="101" y="40" type="curve"/>
+      <point x="165" y="-23" type="line"/>
+      <point x="290" y="103"/>
+      <point x="546" y="364"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+</glyph>

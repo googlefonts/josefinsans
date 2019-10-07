@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="530"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="325.5" y="701.667" type="curve" smooth="yes"/>
+      <point x="181.833" y="701.667" type="line"/>
+      <point x="95.667" y="0" type="line"/>
+      <point x="115.667" y="0" type="line"/>
+      <point x="154.167" y="317.167" type="line"/>
+      <point x="265.5" y="317.167" type="line" smooth="yes"/>
+      <point x="431.833" y="317.167"/>
+      <point x="507.833" y="429.333"/>
+      <point x="507.833" y="536.167" type="curve" smooth="yes"/>
+      <point x="507.833" y="657.667"/>
+      <point x="401.667" y="701.667"/>
+    </contour>
+    <contour>
+      <point x="270.833" y="336.667" type="curve" smooth="yes"/>
+      <point x="156.833" y="336.667" type="line"/>
+      <point x="199.167" y="682" type="line"/>
+      <point x="314.167" y="682" type="line" smooth="yes"/>
+      <point x="416.333" y="682"/>
+      <point x="487.667" y="622.833"/>
+      <point x="487.667" y="534.333" type="curve" smooth="yes"/>
+      <point x="487.667" y="463.667"/>
+      <point x="438.5" y="336.667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>700</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

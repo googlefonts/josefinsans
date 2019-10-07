@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="768"/>
+  <unicode hex="019D"/>
+  <outline>
+    <contour>
+      <point x="625" y="-17" type="line"/>
+      <point x="628" y="-8" type="line"/>
+      <point x="716" y="710" type="line"/>
+      <point x="669" y="710" type="line"/>
+      <point x="593" y="85" type="line"/>
+      <point x="608" y="89" type="line"/>
+      <point x="125" y="725" type="line"/>
+      <point x="123" y="725" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="157" y="624" type="line"/>
+      <point x="144" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="54" type="line"/>
+      <point x="45" y="89" type="line"/>
+      <point x="33" y="-6" type="line" smooth="yes"/>
+      <point x="25" y="-72"/>
+      <point x="-3" y="-124"/>
+      <point x="-42" y="-159" type="curve"/>
+      <point x="-14" y="-188" type="line"/>
+      <point x="39" y="-148"/>
+      <point x="70" y="-86"/>
+      <point x="80" y="-5" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>J</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

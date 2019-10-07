@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="389"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="150" y="427" type="curve"/>
+      <point x="208" y="427"/>
+      <point x="236" y="471"/>
+      <point x="239" y="471" type="curve"/>
+      <point x="233" y="488" type="line"/>
+      <point x="233" y="434" type="line"/>
+      <point x="339" y="434" type="line"/>
+      <point x="339" y="724" type="line"/>
+      <point x="239" y="724" type="line"/>
+      <point x="232" y="683" type="line"/>
+      <point x="235" y="697" type="line"/>
+      <point x="218" y="717"/>
+      <point x="196" y="736"/>
+      <point x="147" y="736" type="curve"/>
+      <point x="83" y="736"/>
+      <point x="25" y="675"/>
+      <point x="25" y="579" type="curve"/>
+      <point x="25" y="474"/>
+      <point x="80" y="427"/>
+    </contour>
+    <contour>
+      <point x="185" y="512" type="curve"/>
+      <point x="155" y="512"/>
+      <point x="132" y="543"/>
+      <point x="132" y="583" type="curve"/>
+      <point x="132" y="623"/>
+      <point x="154" y="651"/>
+      <point x="183" y="651" type="curve"/>
+      <point x="208" y="651"/>
+      <point x="225" y="636"/>
+      <point x="233" y="611" type="curve"/>
+      <point x="233" y="550" type="line"/>
+      <point x="222" y="526"/>
+      <point x="209" y="512"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>481.857</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>705.275</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

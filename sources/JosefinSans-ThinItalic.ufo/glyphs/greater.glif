@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="645.83333"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="113.667" y="8" type="curve"/>
+      <point x="110.833" y="-15" type="line"/>
+      <point x="110.833" y="-15" type="line"/>
+      <point x="267" y="69.167"/>
+      <point x="424" y="154.167"/>
+      <point x="580.167" y="238.167" type="curve"/>
+      <point x="444" y="322.333"/>
+      <point x="309" y="407.333"/>
+      <point x="172.833" y="491.333" type="curve"/>
+      <point x="170" y="468.5" type="line"/>
+      <point x="293.333" y="391.833"/>
+      <point x="418.667" y="315"/>
+      <point x="542.167" y="238.167" type="curve"/>
+      <point x="399.333" y="161.5"/>
+      <point x="256.5" y="84.667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-14.956</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>490.956</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

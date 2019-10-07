@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="993"/>
+  <unicode hex="0057"/>
+  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="497" y="712" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="708" type="line"/>
+      <point x="329" y="-33" type="line"/>
+      <point x="500" y="406" type="line"/>
+      <point x="477" y="469" type="line"/>
+      <point x="329" y="69" type="line"/>
+      <point x="340" y="66" type="line"/>
+      <point x="105" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="708" type="line"/>
+      <point x="659" y="-32" type="line"/>
+      <point x="944" y="708" type="line"/>
+      <point x="892" y="708" type="line"/>
+      <point x="654" y="70" type="line"/>
+      <point x="669" y="66" type="line"/>
+      <point x="425" y="708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>726.471</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-5.529</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

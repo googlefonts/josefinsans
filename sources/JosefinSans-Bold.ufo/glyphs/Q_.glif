@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="893"/>
+  <unicode hex="0051"/>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="435" y="736" name="top"/>
+  <outline>
+    <contour>
+      <point x="615" y="142" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="843" y="0" type="line"/>
+      <point x="843" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="367" type="curve"/>
+      <point x="50" y="160"/>
+      <point x="218" y="-8"/>
+      <point x="425" y="-8" type="curve"/>
+      <point x="630" y="-8"/>
+      <point x="802" y="160"/>
+      <point x="802" y="367" type="curve"/>
+      <point x="802" y="570"/>
+      <point x="630" y="744"/>
+      <point x="425" y="744" type="curve"/>
+      <point x="218" y="744"/>
+      <point x="50" y="570"/>
+    </contour>
+    <contour>
+      <point x="200" y="367" type="curve"/>
+      <point x="200" y="496"/>
+      <point x="298" y="600"/>
+      <point x="426" y="600" type="curve"/>
+      <point x="553" y="600"/>
+      <point x="652" y="496"/>
+      <point x="652" y="367" type="curve"/>
+      <point x="652" y="237"/>
+      <point x="556" y="133"/>
+      <point x="430" y="133" type="curve"/>
+      <point x="300" y="133"/>
+      <point x="200" y="238"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-8</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>708</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

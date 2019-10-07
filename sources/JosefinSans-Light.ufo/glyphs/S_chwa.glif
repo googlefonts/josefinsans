@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="805"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="375" y="718" type="curve"/>
+      <point x="284" y="718"/>
+      <point x="186" y="675"/>
+      <point x="123" y="615" type="curve"/>
+      <point x="149" y="577" type="line"/>
+      <point x="203" y="630"/>
+      <point x="291" y="670"/>
+      <point x="374" y="670" type="curve"/>
+      <point x="555" y="670"/>
+      <point x="686" y="522"/>
+      <point x="686" y="355" type="curve"/>
+      <point x="686" y="181"/>
+      <point x="548" y="38"/>
+      <point x="377" y="38" type="curve"/>
+      <point x="254" y="38"/>
+      <point x="159" y="117"/>
+      <point x="113" y="234" type="curve"/>
+      <point x="97" y="215" type="line"/>
+      <point x="690" y="448" type="line"/>
+      <point x="678" y="486" type="line"/>
+      <point x="55" y="245" type="line"/>
+      <point x="103" y="96"/>
+      <point x="214" y="-6"/>
+      <point x="374" y="-6" type="curve"/>
+      <point x="575" y="-6"/>
+      <point x="737" y="154"/>
+      <point x="737" y="357" type="curve"/>
+      <point x="737" y="559"/>
+      <point x="583" y="718"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>66.706</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>459.706</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

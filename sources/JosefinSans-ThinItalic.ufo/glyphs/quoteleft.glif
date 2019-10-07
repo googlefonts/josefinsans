@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="164.16667"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="165.833" y="590.5" type="curve"/>
+      <point x="165.833" y="590.5" type="line"/>
+      <point x="141.833" y="617.5"/>
+      <point x="132.833" y="658.5"/>
+      <point x="146.833" y="704.667" type="curve"/>
+      <point x="141" y="706.667"/>
+      <point x="133.333" y="709.667"/>
+      <point x="126.5" y="711.667" type="curve"/>
+      <point x="109.5" y="658.5"/>
+      <point x="121.333" y="607.333"/>
+      <point x="155.333" y="572.167" type="curve"/>
+      <point x="159.167" y="578.167"/>
+      <point x="163" y="584.333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>711</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>571.735</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

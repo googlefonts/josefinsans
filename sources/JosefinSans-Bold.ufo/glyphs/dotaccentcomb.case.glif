@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <anchor x="99" y="535" name="_top"/>
+  <anchor x="100" y="701" name="top"/>
+  <outline>
+    <component base="dotaccent" xOffset="-20" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>218</integer>
+    </dict>
+  </lib>
+</glyph>

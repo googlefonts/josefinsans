@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="707"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="450" y="-198" type="curve"/>
+      <point x="487" y="-198"/>
+      <point x="522" y="-172"/>
+      <point x="540" y="-139" type="curve"/>
+      <point x="518" y="-116" type="line"/>
+      <point x="502" y="-143"/>
+      <point x="481" y="-162"/>
+      <point x="454" y="-162" type="curve"/>
+      <point x="428" y="-162"/>
+      <point x="402" y="-142"/>
+      <point x="402" y="-106" type="curve"/>
+      <point x="402" y="-56"/>
+      <point x="437" y="-13"/>
+      <point x="492" y="28" type="curve"/>
+      <point x="551" y="69"/>
+      <point x="598" y="134"/>
+      <point x="598" y="235" type="curve"/>
+      <point x="598" y="710" type="line"/>
+      <point x="550" y="710" type="line"/>
+      <point x="550" y="240" type="line"/>
+      <point x="550" y="116"/>
+      <point x="466" y="39"/>
+      <point x="353" y="39" type="curve"/>
+      <point x="241" y="39"/>
+      <point x="158" y="116"/>
+      <point x="158" y="240" type="curve"/>
+      <point x="158" y="710" type="line"/>
+      <point x="109" y="710" type="line"/>
+      <point x="109" y="237" type="line"/>
+      <point x="109" y="83"/>
+      <point x="211" y="-8"/>
+      <point x="353" y="-8" type="curve"/>
+      <point x="388" y="-8"/>
+      <point x="421" y="-2"/>
+      <point x="448" y="9" type="curve"/>
+      <point x="446" y="27" type="line"/>
+      <point x="430" y="11" type="line"/>
+      <point x="389" y="-17"/>
+      <point x="361" y="-65"/>
+      <point x="361" y="-109" type="curve"/>
+      <point x="361" y="-163"/>
+      <point x="402" y="-198"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>18.471</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>726.471</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

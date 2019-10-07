@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj" format="2">
+  <outline>
+    <contour>
+      <point x="512" y="437" type="line"/>
+      <point x="385" y="437" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="178" type="line"/>
+      <point x="525" y="271"/>
+      <point x="566" y="339"/>
+      <point x="631" y="339" type="curve"/>
+      <point x="676" y="339"/>
+      <point x="693" y="314"/>
+      <point x="695" y="275" type="curve"/>
+      <point x="695" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="835" y="327" type="line"/>
+      <point x="833" y="404"/>
+      <point x="771" y="458"/>
+      <point x="689" y="458" type="curve"/>
+      <point x="608" y="458"/>
+      <point x="553" y="421"/>
+      <point x="522" y="366" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="207.83333"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="75" y="-188" type="curve"/>
+      <point x="108.667" y="-188"/>
+      <point x="137" y="-162.833"/>
+      <point x="150.833" y="-134" type="curve"/>
+      <point x="138" y="-125.167" type="line"/>
+      <point x="123.667" y="-150.5"/>
+      <point x="102.667" y="-170.333"/>
+      <point x="76.5" y="-170.333" type="curve"/>
+      <point x="48.833" y="-170.333"/>
+      <point x="22" y="-147"/>
+      <point x="22" y="-110.167" type="curve"/>
+      <point x="22" y="-71"/>
+      <point x="54.5" y="-33.667"/>
+      <point x="113.667" y="0" type="curve"/>
+      <point x="108.667" y="6.167" type="line"/>
+      <point x="101" y="11.833" type="line"/>
+      <point x="48.833" y="-14.833"/>
+      <point x="2.667" y="-60"/>
+      <point x="2.667" y="-110.667" type="curve"/>
+      <point x="2.667" y="-157.167"/>
+      <point x="37" y="-188"/>
+    </contour>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="15.333" yOffset="-38.667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <outline>
+    <contour>
+      <point x="556" y="437" type="line"/>
+      <point x="429" y="437" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="569" y="178" type="line"/>
+      <point x="569" y="271"/>
+      <point x="610" y="339"/>
+      <point x="675" y="339" type="curve"/>
+      <point x="720" y="339"/>
+      <point x="737" y="314"/>
+      <point x="739" y="275" type="curve"/>
+      <point x="739" y="0" type="line"/>
+      <point x="879" y="0" type="line"/>
+      <point x="879" y="327" type="line"/>
+      <point x="877" y="404"/>
+      <point x="815" y="458"/>
+      <point x="733" y="458" type="curve"/>
+      <point x="652" y="458"/>
+      <point x="597" y="421"/>
+      <point x="566" y="366" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

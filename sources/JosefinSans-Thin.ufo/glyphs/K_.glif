@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="640.83333"/>
+  <unicode hex="004B"/>
+  <anchor x="305.167" y="0" name="bottom"/>
+  <anchor x="307.333" y="701.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="138.833" y="365" type="line"/>
+      <point x="138.833" y="701.667" type="line"/>
+      <point x="118.833" y="701.667" type="line"/>
+      <point x="118.833" y="0" type="line"/>
+      <point x="138.833" y="0" type="line"/>
+      <point x="137.833" y="314.333" type="line"/>
+      <point x="238.833" y="409.667" type="line"/>
+      <point x="562.333" y="0" type="line"/>
+      <point x="587.667" y="0" type="line"/>
+      <point x="254" y="423.167" type="line"/>
+      <point x="544.667" y="701.667" type="line"/>
+      <point x="519.167" y="701.667" type="line"/>
+      <point x="134.833" y="334" type="line"/>
+      <point x="137.667" y="330.833" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>34.412</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>735.368</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>734.412</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="433.5"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="jdotless" xOffset="207.5"/>
+    <component base="acutecomb" xOffset="193.667" yOffset="-68.833"/>
+    <component base="acutecomb" xOffset="-32.167" yOffset="-68.833"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="543"/>
+  <unicode hex="0070"/>
+  <anchor x="247.5" y="0" name="bottom"/>
+  <anchor x="293.833" y="377.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="268.333" y="-6.333" type="curve" smooth="yes"/>
+      <point x="386.833" y="-6.333"/>
+      <point x="489.833" y="93"/>
+      <point x="489.833" y="214.167" type="curve" smooth="yes"/>
+      <point x="489.833" y="312.167"/>
+      <point x="417" y="386.333"/>
+      <point x="316.5" y="386.333" type="curve" smooth="yes"/>
+      <point x="235.5" y="386.333"/>
+      <point x="155.833" y="336.333"/>
+      <point x="120.333" y="265.833" type="curve"/>
+      <point x="119.667" y="236.833" type="line"/>
+      <point x="135.833" y="378.167" type="line"/>
+      <point x="117.167" y="378.167" type="line"/>
+      <point x="49.5" y="-181.333" type="line"/>
+      <point x="69" y="-181.333" type="line"/>
+      <point x="97.833" y="63.5" type="line"/>
+      <point x="101.5" y="114" type="line"/>
+      <point x="120.833" y="43.667"/>
+      <point x="186.167" y="-6.333"/>
+    </contour>
+    <contour>
+      <point x="269.167" y="11.333" type="curve" smooth="yes"/>
+      <point x="138.833" y="11.333"/>
+      <point x="105" y="125.333"/>
+      <point x="111.833" y="175" type="curve"/>
+      <point x="115.333" y="198.833" type="line"/>
+      <point x="128.167" y="296.333"/>
+      <point x="215.667" y="369"/>
+      <point x="313.333" y="369" type="curve" smooth="yes"/>
+      <point x="404.667" y="369"/>
+      <point x="470.167" y="301.167"/>
+      <point x="470.167" y="211.333" type="curve" smooth="yes"/>
+      <point x="470.167" y="103.167"/>
+      <point x="375.333" y="11.333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>381.044</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-250</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
