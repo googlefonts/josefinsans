@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="200"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="148" y="728" type="line"/>
+      <point x="77" y="149" type="line"/>
+      <point x="120" y="149" type="line"/>
+      <point x="191" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="10" type="curve" smooth="yes"/>
+      <point x="82" y="3"/>
+      <point x="95" y="2"/>
+      <point x="106" y="14" type="curve" smooth="yes"/>
+      <point x="116" y="25"/>
+      <point x="117" y="41"/>
+      <point x="105" y="51" type="curve" smooth="yes"/>
+      <point x="92" y="59"/>
+      <point x="76" y="57"/>
+      <point x="67" y="46" type="curve" smooth="yes"/>
+      <point x="57" y="34"/>
+      <point x="57" y="19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>750</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>26.471</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

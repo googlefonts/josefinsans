@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="343.83333"/>
+  <unicode hex="0073"/>
+  <anchor x="172.167" y="-0.5" name="bottom"/>
+  <anchor x="172.5" y="378.167" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="-8" type="curve" smooth="yes"/>
+      <point x="248.333" y="-8"/>
+      <point x="289.167" y="36.333"/>
+      <point x="289.167" y="102" type="curve" smooth="yes"/>
+      <point x="289.167" y="170.833"/>
+      <point x="228.167" y="187.833"/>
+      <point x="172.833" y="206.833" type="curve" smooth="yes"/>
+      <point x="128.667" y="222.833"/>
+      <point x="88" y="240.333"/>
+      <point x="88" y="289" type="curve" smooth="yes"/>
+      <point x="88" y="342.833"/>
+      <point x="137.833" y="365.333"/>
+      <point x="172.833" y="365.333" type="curve" smooth="yes"/>
+      <point x="199.833" y="365.167"/>
+      <point x="241.5" y="353.667"/>
+      <point x="263.5" y="326.333" type="curve"/>
+      <point x="274.5" y="339.333" type="line"/>
+      <point x="245.667" y="371.333"/>
+      <point x="202.667" y="382.5"/>
+      <point x="171.667" y="382.5" type="curve" smooth="yes"/>
+      <point x="119.333" y="382.5"/>
+      <point x="68.5" y="350.333"/>
+      <point x="68.5" y="287.167" type="curve" smooth="yes"/>
+      <point x="68.5" y="228.167"/>
+      <point x="112.833" y="206.833"/>
+      <point x="162.333" y="190.333" type="curve" smooth="yes"/>
+      <point x="215" y="172.5"/>
+      <point x="269.667" y="157.833"/>
+      <point x="269.667" y="97" type="curve" smooth="yes"/>
+      <point x="269.667" y="30.5"/>
+      <point x="218.833" y="9.167"/>
+      <point x="171.333" y="9.167" type="curve" smooth="yes"/>
+      <point x="126.167" y="9.167"/>
+      <point x="86.333" y="27.167"/>
+      <point x="66.167" y="51.833" type="curve"/>
+      <point x="54.167" y="40" type="line"/>
+      <point x="82.667" y="4.5"/>
+      <point x="133.333" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>121.265</real>
+            <real>240.132</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>403.118</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>15.897</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

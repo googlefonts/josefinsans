@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="830"/>
+  <unicode hex="20A6"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="489" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="460" y="369" type="line"/>
+      <point x="457" y="334" type="line"/>
+      <point x="824" y="334" type="line"/>
+      <point x="827" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="334" type="line"/>
+      <point x="447" y="369" type="line"/>
+      <point x="36" y="369" type="line"/>
+      <point x="33" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="701" y="-17" type="line"/>
+      <point x="790" y="710" type="line"/>
+      <point x="741" y="710" type="line"/>
+      <point x="665" y="85" type="line"/>
+      <point x="681" y="80" type="line"/>
+      <point x="199" y="725" type="line"/>
+      <point x="196" y="725" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="232" y="624" type="line"/>
+      <point x="218" y="623" type="line"/>
+      <point x="699" y="-17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>732</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-32</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="603"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="90" y="240" type="curve"/>
+      <point x="283" y="67" type="line"/>
+      <point x="283" y="112" type="line"/>
+      <point x="248" y="148"/>
+      <point x="188" y="204"/>
+      <point x="154" y="240" type="curve"/>
+      <point x="188" y="276"/>
+      <point x="248" y="332"/>
+      <point x="283" y="367" type="curve"/>
+      <point x="283" y="413" type="line"/>
+      <point x="241" y="373"/>
+      <point x="132" y="280"/>
+    </contour>
+    <contour>
+      <point x="282" y="240" type="curve"/>
+      <point x="475" y="67" type="line"/>
+      <point x="475" y="112" type="line"/>
+      <point x="440" y="148"/>
+      <point x="380" y="204"/>
+      <point x="346" y="240" type="curve"/>
+      <point x="380" y="276"/>
+      <point x="440" y="332"/>
+      <point x="475" y="367" type="curve"/>
+      <point x="475" y="413" type="line"/>
+      <point x="433" y="373"/>
+      <point x="324" y="280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>400</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>77</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

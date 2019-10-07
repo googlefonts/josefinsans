@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="553"/>
+  <unicode hex="0065"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="475" y="10" name="ogonek"/>
+  <anchor x="290" y="458" name="top"/>
+  <outline>
+    <contour>
+      <point x="287" y="-12" type="curve"/>
+      <point x="335" y="-12"/>
+      <point x="392" y="5"/>
+      <point x="439" y="32" type="curve"/>
+      <point x="377" y="136" type="line"/>
+      <point x="349" y="118"/>
+      <point x="321" y="107"/>
+      <point x="290" y="107" type="curve"/>
+      <point x="226" y="107"/>
+      <point x="176" y="149"/>
+      <point x="176" y="231" type="curve"/>
+      <point x="176" y="303"/>
+      <point x="216" y="349"/>
+      <point x="279" y="349" type="curve"/>
+      <point x="334" y="349"/>
+      <point x="358" y="318"/>
+      <point x="369" y="284" type="curve"/>
+      <point x="398" y="297" type="line"/>
+      <point x="152" y="214" type="line"/>
+      <point x="183" y="138" type="line"/>
+      <point x="523" y="246" type="line"/>
+      <point x="499" y="383"/>
+      <point x="415" y="458"/>
+      <point x="290" y="458" type="curve"/>
+      <point x="150" y="458"/>
+      <point x="38" y="354"/>
+      <point x="38" y="223" type="curve"/>
+      <point x="38" y="85"/>
+      <point x="127" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>384</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-9</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="187" y="389" name="_top"/>
+  <anchor x="187" y="519" name="top"/>
+  <outline>
+    <component base="macron" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>380</integer>
+    </dict>
+  </lib>
+</glyph>

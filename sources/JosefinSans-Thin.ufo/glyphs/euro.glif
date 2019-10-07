@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="722.83333"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="73.833" y="397.833" type="line"/>
+      <point x="73.833" y="379.333" type="line"/>
+      <point x="403.667" y="379.333" type="line"/>
+      <point x="403.667" y="397.833" type="line"/>
+    </contour>
+    <contour>
+      <point x="74.833" y="289.5" type="line"/>
+      <point x="74.833" y="271.167" type="line"/>
+      <point x="403.667" y="271.167" type="line"/>
+      <point x="403.667" y="289.5" type="line"/>
+    </contour>
+    <component base="C" xOffset="32.667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>148.323</real>
+            <real>210.956</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

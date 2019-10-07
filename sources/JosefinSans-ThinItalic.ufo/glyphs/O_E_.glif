@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="989.5"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="584.667" y="682" type="curve"/>
+      <point x="603.667" y="697.5" type="line"/>
+      <point x="575.667" y="705.5"/>
+      <point x="546.5" y="709.667"/>
+      <point x="514.5" y="709.667" type="curve" smooth="yes"/>
+      <point x="302" y="709.667"/>
+      <point x="109.667" y="529"/>
+      <point x="109.667" y="313.667" type="curve" smooth="yes"/>
+      <point x="109.667" y="134.333"/>
+      <point x="243.833" y="-8"/>
+      <point x="426.333" y="-8" type="curve" smooth="yes"/>
+      <point x="457.333" y="-8"/>
+      <point x="487.333" y="-4"/>
+      <point x="516.5" y="3" type="curve"/>
+      <point x="503.167" y="20.5" type="line"/>
+      <point x="477.5" y="14.5"/>
+      <point x="452.833" y="11.667"/>
+      <point x="426.333" y="11.667" type="curve" smooth="yes"/>
+      <point x="255.833" y="11.667"/>
+      <point x="129.667" y="145.667"/>
+      <point x="129.667" y="314.333" type="curve" smooth="yes"/>
+      <point x="129.667" y="517.333"/>
+      <point x="311.833" y="689.833"/>
+      <point x="511.833" y="689.833" type="curve" smooth="yes"/>
+      <point x="537.5" y="689.833"/>
+      <point x="562" y="686.833"/>
+    </contour>
+    <contour>
+      <point x="581.333" y="701.667" type="line"/>
+      <point x="495.167" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="900.667" y="19.5" type="line"/>
+      <point x="517.833" y="19.5" type="line"/>
+      <point x="557" y="344" type="line"/>
+      <point x="886.667" y="344" type="line"/>
+      <point x="889.333" y="363.333" type="line"/>
+      <point x="559.5" y="363.333" type="line"/>
+      <point x="598.667" y="682.333" type="line"/>
+      <point x="967.5" y="682.333" type="line"/>
+      <point x="970.167" y="701.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-7.647</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>707.647</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>3.132</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>696.868</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

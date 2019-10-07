@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="815"/>
+  <unicode hex="019D"/>
+  <outline>
+    <contour>
+      <point x="700" y="-17" type="line"/>
+      <point x="702" y="-8" type="line"/>
+      <point x="702" y="710" type="line"/>
+      <point x="655" y="710" type="line"/>
+      <point x="656" y="85" type="line"/>
+      <point x="670" y="89" type="line"/>
+      <point x="109" y="725" type="line"/>
+      <point x="107" y="725" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="153" y="624" type="line"/>
+      <point x="141" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="54" type="line"/>
+      <point x="107" y="89" type="line"/>
+      <point x="107" y="-6" type="line" smooth="yes"/>
+      <point x="107" y="-72"/>
+      <point x="85" y="-124"/>
+      <point x="50" y="-159" type="curve"/>
+      <point x="82" y="-188" type="line"/>
+      <point x="130" y="-148"/>
+      <point x="154" y="-86"/>
+      <point x="154" y="-5" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

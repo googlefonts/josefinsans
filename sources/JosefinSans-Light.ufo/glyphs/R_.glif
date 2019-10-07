@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="633"/>
+  <unicode hex="0052"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="277" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="275" y="710" type="curve" smooth="yes"/>
+      <point x="113" y="710" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="298" type="line"/>
+      <point x="272" y="298" type="line" smooth="yes"/>
+      <point x="439" y="298"/>
+      <point x="499" y="403"/>
+      <point x="499" y="509" type="curve" smooth="yes"/>
+      <point x="499" y="650"/>
+      <point x="381" y="710"/>
+    </contour>
+    <contour>
+      <point x="269" y="345" type="curve" smooth="yes"/>
+      <point x="162" y="345" type="line"/>
+      <point x="162" y="663" type="line"/>
+      <point x="282" y="663" type="line" smooth="yes"/>
+      <point x="384" y="663"/>
+      <point x="449" y="591"/>
+      <point x="449" y="507" type="curve" smooth="yes"/>
+      <point x="449" y="434"/>
+      <point x="411" y="345"/>
+    </contour>
+    <contour>
+      <point x="371" y="323" type="line"/>
+      <point x="313" y="322" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>26.471</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>726.471</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

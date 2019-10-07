@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="185.83333"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="71.333" y="22.333" type="curve" smooth="yes"/>
+      <point x="71.333" y="22.333" type="line" smooth="yes"/>
+      <point x="71.333" y="9.833"/>
+      <point x="81.5" y="0"/>
+      <point x="93.5" y="0" type="curve" smooth="yes"/>
+      <point x="105.5" y="0"/>
+      <point x="115.833" y="9.833"/>
+      <point x="115.833" y="22.333" type="curve" smooth="yes"/>
+      <point x="115.833" y="34.667"/>
+      <point x="105.5" y="44.667"/>
+      <point x="93.5" y="44.667" type="curve" smooth="yes"/>
+      <point x="81.5" y="44.667"/>
+      <point x="71.333" y="34.667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>42.868</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

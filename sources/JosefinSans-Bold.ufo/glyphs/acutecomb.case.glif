@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="37" y="556" name="_top"/>
+  <anchor x="109" y="807" name="top"/>
+  <outline>
+    <component base="acute" xOffset="-52" yOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>265</integer>
+    </dict>
+  </lib>
+</glyph>

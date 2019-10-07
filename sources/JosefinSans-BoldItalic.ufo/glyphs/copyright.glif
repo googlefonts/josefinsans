@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="881"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="607" y="172" type="curve"/>
+      <point x="555" y="270" type="line"/>
+      <point x="529" y="243"/>
+      <point x="494" y="232"/>
+      <point x="465" y="234" type="curve"/>
+      <point x="418" y="237"/>
+      <point x="396" y="276"/>
+      <point x="402" y="320" type="curve"/>
+      <point x="407" y="361"/>
+      <point x="437" y="400"/>
+      <point x="483" y="398" type="curve"/>
+      <point x="508" y="396"/>
+      <point x="533" y="390"/>
+      <point x="551" y="366" type="curve"/>
+      <point x="620" y="470" type="line"/>
+      <point x="592" y="501"/>
+      <point x="530" y="517"/>
+      <point x="487" y="520" type="curve"/>
+      <point x="360" y="528"/>
+      <point x="272" y="446"/>
+      <point x="257" y="324" type="curve"/>
+      <point x="244" y="215"/>
+      <point x="318" y="118"/>
+      <point x="426" y="108" type="curve"/>
+      <point x="504" y="103"/>
+      <point x="570" y="138"/>
+    </contour>
+    <contour>
+      <point x="405" y="-70" type="curve"/>
+      <point x="617" y="-83"/>
+      <point x="813" y="71"/>
+      <point x="840" y="288" type="curve"/>
+      <point x="867" y="509"/>
+      <point x="711" y="682"/>
+      <point x="499" y="695" type="curve"/>
+      <point x="287" y="708"/>
+      <point x="91" y="556"/>
+      <point x="64" y="336" type="curve"/>
+      <point x="38" y="118"/>
+      <point x="193" y="-57"/>
+    </contour>
+    <contour>
+      <point x="419" y="42" type="curve"/>
+      <point x="267" y="51"/>
+      <point x="164" y="173"/>
+      <point x="183" y="328" type="curve"/>
+      <point x="203" y="485"/>
+      <point x="333" y="593"/>
+      <point x="485" y="583" type="curve"/>
+      <point x="637" y="574"/>
+      <point x="739" y="452"/>
+      <point x="719" y="296" type="curve"/>
+      <point x="700" y="140"/>
+      <point x="571" y="32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>148</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>597</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

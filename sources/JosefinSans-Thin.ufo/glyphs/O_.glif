@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="865.33333"/>
+  <unicode hex="004F"/>
+  <anchor x="432.667" y="0" name="bottom"/>
+  <anchor x="432.667" y="350.833" name="center"/>
+  <anchor x="528.167" y="10" name="ogonek"/>
+  <anchor x="432.667" y="702" name="top"/>
+  <anchor x="24.833" y="701.667" name="topleft"/>
+  <anchor x="528.833" y="825.667" name="topright"/>
+  <outline>
+    <contour>
+      <point x="73.833" y="349.833" type="curve"/>
+      <point x="73.833" y="141.833"/>
+      <point x="234.333" y="-8"/>
+      <point x="431.667" y="-8" type="curve" smooth="yes"/>
+      <point x="630" y="-8"/>
+      <point x="791.5" y="152.333"/>
+      <point x="791.5" y="349.833" type="curve" smooth="yes"/>
+      <point x="791.5" y="548"/>
+      <point x="630" y="709.667"/>
+      <point x="431.667" y="709.667" type="curve" smooth="yes"/>
+      <point x="234.333" y="709.667"/>
+      <point x="73.833" y="548"/>
+    </contour>
+    <contour>
+      <point x="93.833" y="348.833" type="curve"/>
+      <point x="93.833" y="530.667"/>
+      <point x="239.667" y="691"/>
+      <point x="431.667" y="691" type="curve" smooth="yes"/>
+      <point x="618" y="691"/>
+      <point x="771.5" y="536.333"/>
+      <point x="771.5" y="349.833" type="curve" smooth="yes"/>
+      <point x="771.5" y="161.5"/>
+      <point x="618.167" y="10.667"/>
+      <point x="429" y="10.667" type="curve" smooth="yes"/>
+      <point x="244.5" y="10.667"/>
+      <point x="93.833" y="162.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>25.118</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>734.147</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="215.66667"/>
+  <unicode hex="0237"/>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="113.833" y="377.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.667" y="-181.333" type="line"/>
+      <point x="102" y="-142.333"/>
+      <point x="123.667" y="-84"/>
+      <point x="123.667" y="-6.667" type="curve"/>
+      <point x="123.667" y="377.667" type="line"/>
+      <point x="104" y="377.667" type="line"/>
+      <point x="104" y="-10.167" type="line" smooth="yes"/>
+      <point x="104" y="-77.833"/>
+      <point x="82" y="-132.333"/>
+      <point x="48.667" y="-169" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-7.985</real>
+            <real>3.5</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>25.279</real>
+            <real>-3.333</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

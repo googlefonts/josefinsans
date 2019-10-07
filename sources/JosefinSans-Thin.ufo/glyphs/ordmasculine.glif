@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="382.5"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="44.167" y="554.167" type="curve"/>
+      <point x="44.167" y="470.667"/>
+      <point x="109.167" y="408.833"/>
+      <point x="190.833" y="408.833" type="curve"/>
+      <point x="272.667" y="408.833"/>
+      <point x="338.5" y="472.833"/>
+      <point x="338.5" y="554.167" type="curve"/>
+      <point x="338.5" y="635.667"/>
+      <point x="272.667" y="701.5"/>
+      <point x="190.833" y="701.5" type="curve"/>
+      <point x="109.167" y="701.5"/>
+      <point x="44.167" y="635.667"/>
+    </contour>
+    <contour>
+      <point x="62.333" y="554.167" type="curve"/>
+      <point x="62.333" y="621.667"/>
+      <point x="116.833" y="685"/>
+      <point x="190.833" y="685" type="curve"/>
+      <point x="262" y="685"/>
+      <point x="320.333" y="626.5"/>
+      <point x="320.333" y="554.167" type="curve"/>
+      <point x="320.333" y="482.833"/>
+      <point x="262" y="425.333"/>
+      <point x="190.833" y="425.333" type="curve"/>
+      <point x="119.667" y="425.333"/>
+      <point x="62.333" y="482.833"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>428.086</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>717.588</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="178.5"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="60.167" y="-186.167" type="curve"/>
+      <point x="93.667" y="-186.333"/>
+      <point x="122.167" y="-161.167"/>
+      <point x="136.167" y="-132.5" type="curve"/>
+      <point x="123.833" y="-123.5" type="line"/>
+      <point x="109.333" y="-148.833"/>
+      <point x="88.167" y="-168.5"/>
+      <point x="62.167" y="-168.5" type="curve"/>
+      <point x="34.333" y="-168.333"/>
+      <point x="7.667" y="-145"/>
+      <point x="7.833" y="-108.167" type="curve"/>
+      <point x="8" y="-69.167"/>
+      <point x="40.5" y="-32.667"/>
+      <point x="98.833" y="1" type="curve"/>
+      <point x="144.167" y="377.667" type="line"/>
+      <point x="124.667" y="377.667" type="line"/>
+      <point x="78.333" y="0" type="line"/>
+      <point x="88.833" y="6.667" type="line"/>
+      <point x="87.333" y="14" type="line"/>
+      <point x="34.167" y="-13"/>
+      <point x="-11.667" y="-58.833"/>
+      <point x="-11.667" y="-109.167" type="curve"/>
+      <point x="-11.667" y="-155.167"/>
+      <point x="22.333" y="-185.833"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="1.5" yOffset="-1.833"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>522.338</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

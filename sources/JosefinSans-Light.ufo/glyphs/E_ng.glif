@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="809"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="700" y="-17" type="line"/>
+      <point x="702" y="-8" type="line"/>
+      <point x="702" y="710" type="line"/>
+      <point x="655" y="710" type="line"/>
+      <point x="656" y="85" type="line"/>
+      <point x="670" y="86" type="line"/>
+      <point x="109" y="725" type="line"/>
+      <point x="107" y="725" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="153" y="624" type="line"/>
+      <point x="141" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="702" y="54" type="line"/>
+      <point x="655" y="89" type="line"/>
+      <point x="655" y="-6" type="line" smooth="yes"/>
+      <point x="655" y="-72"/>
+      <point x="633" y="-124"/>
+      <point x="598" y="-159" type="curve"/>
+      <point x="628" y="-188" type="line"/>
+      <point x="676" y="-148"/>
+      <point x="702" y="-86"/>
+      <point x="702" y="-5" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>758.471</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-5.529</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>-161.882</real>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>552.412</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

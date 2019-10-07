@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="167"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="154" y="574" type="curve"/>
+      <point x="154" y="574" type="line"/>
+      <point x="196" y="613"/>
+      <point x="221" y="668"/>
+      <point x="217" y="725" type="curve"/>
+      <point x="193" y="723"/>
+      <point x="167" y="720"/>
+      <point x="144" y="718" type="curve"/>
+      <point x="147" y="671"/>
+      <point x="128" y="629"/>
+      <point x="96" y="602" type="curve"/>
+      <point x="116" y="592"/>
+      <point x="135" y="583"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>566</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>711</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
