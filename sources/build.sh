@@ -10,10 +10,10 @@ fontmake -m JosefinSans-Italic.designspace -o ttf --output-dir ../fonts/ttf/
 fontmake -m JosefinSans-Italic.designspace -o otf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
-fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/ttf/JosefinSans-Roman[wght].ttf
+fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/ttf/JosefinSans[wght].ttf
 fontmake -m JosefinSans-Italic.designspace -o variable --output-path ../fonts/ttf/JosefinSans-Italic[wght].ttf
 
-rm -rf master_ufo/ instance_ufo/
+rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
 
 echo "Post processing"
@@ -25,8 +25,9 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
+vfs=$(ls ../fonts/ttf/*\[wght\].ttf)
+
 echo "Post processing VFs"
-vfs=$(ls ../fonts/ttf/*-VF.ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
@@ -34,9 +35,10 @@ do
 	mv "$vf.fix" $vf;
 done
 
-
 echo "Fixing VF Meta"
 gftools fix-vf-meta $vfs;
+
+echo "Dropping MVAR"
 for vf in $vfs
 do
 	mv "$vf.fix" $vf;
