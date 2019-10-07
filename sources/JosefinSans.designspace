@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="700" default="100">
+    <axis tag="wght" name="Weight" minimum="100" maximum="700" default="300">
       <map input="100" output="20"/>
       <map input="300" output="50"/>
       <map input="400" output="100"/>
@@ -11,10 +11,6 @@
   </axes>
   <sources>
     <source filename="JosefinSans-Thin.ufo" name="Josefin Sans Thin" familyname="Josefin Sans" stylename="Thin">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -23,6 +19,10 @@
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
     </source>
     <source filename="JosefinSans-Bold.ufo" name="Josefin Sans Bold" familyname="Josefin Sans" stylename="Bold">
       <location>
