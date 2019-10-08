@@ -41,7 +41,7 @@
           <key>place</key>
           <array>
             <integer>0</integer>
-            <real>3.5</real>
+            <integer>21</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -61,7 +61,7 @@
           <key>place</key>
           <array>
             <real>32.294</real>
-            <real>-3.333</real>
+            <integer>-20</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>

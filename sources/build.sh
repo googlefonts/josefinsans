@@ -35,6 +35,18 @@ do
 	mv "$vf.fix" $vf;
 done
 
+echo "Fixing Hinting"
+for vf in $vfs
+do
+	gftools fix-hinting -f $vf;
+	mv "$vf.fix" $vf;
+done
+for ttf in $ttfs
+do
+	gftools fix-hinting -f $ttf;
+	mv "$ttf.fix" $ttf;
+done
+
 echo "Fixing VF Meta"
 gftools fix-vf-meta $vfs;
 
