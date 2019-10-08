@@ -30,7 +30,7 @@
           <key>place</key>
           <array>
             <integer>0</integer>
-            <integer>0</integer>
+            <integer>21</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -50,7 +50,7 @@
           <key>place</key>
           <array>
             <integer>0</integer>
-            <integer>0</integer>
+            <integer>-20</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>

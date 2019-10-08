@@ -4,6 +4,6 @@
   <unicode hex="1EBA"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb" xOffset="242" yOffset="230"/>
+    <component base="hookabovecomb" xOffset="242" yOffset="229"/>
   </outline>
 </glyph>
