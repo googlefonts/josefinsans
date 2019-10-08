@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcircumflex" format="2">
-  <advance width="215.66667"/>
+  <advance width="216"/>
   <unicode hex="0135"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="-116.667" yOffset="-28.667"/>
+    <component base="circumflexcomb" xOffset="-117" yOffset="-29"/>
   </outline>
   <lib>
     <dict>

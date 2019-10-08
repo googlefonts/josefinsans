@@ -11,15 +11,15 @@
   </axes>
   <sources>
     <source filename="JosefinSans-ThinItalic.ufo" name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic">
-      <location>
-        <dimension name="Weight" xvalue="20"/>
-      </location>
-    </source>
-    <source filename="JosefinSans-Italic.ufo" name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="20"/>
+      </location>
+    </source>
+    <source filename="JosefinSans-LightItalic.ufo" name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -31,7 +31,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="instance_ufos/JosefinSans-ThinItalic.ufo" stylemapfamilyname="Josefin Sans Thin" stylemapstylename="italic">
+    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="instance_ufos/JosefinSans-ThinItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -90,7 +90,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="instance_ufos/JosefinSans-LightItalic.ufo" stylemapfamilyname="Josefin Sans Light" stylemapstylename="italic">
+    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="instance_ufos/JosefinSans-LightItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -149,7 +149,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="instance_ufos/JosefinSans-Italic.ufo" stylemapfamilyname="Josefin Sans" stylemapstylename="italic">
+    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="instance_ufos/JosefinSans-Italic.ufo">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -210,7 +210,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="instance_ufos/JosefinSans-SemiBoldItalic.ufo" stylemapfamilyname="Josefin Sans SemiBold" stylemapstylename="italic">
+    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="instance_ufos/JosefinSans-SemiBoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
@@ -236,7 +236,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="instance_ufos/JosefinSans-BoldItalic.ufo" stylemapfamilyname="Josefin Sans" stylemapstylename="bold italic">
+    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="instance_ufos/JosefinSans-BoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>

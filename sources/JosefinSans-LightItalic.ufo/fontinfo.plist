@@ -86,8 +86,10 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
-    <string>Italic</string>
+    <string>Light Italic</string>
     <key>trademark</key>
     <string>Josefin Sans is a trademark of Typemade.</string>
     <key>unitsPerEm</key>

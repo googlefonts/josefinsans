@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="788.83333"/>
+  <advance width="789"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="290.667"/>
-    <component base="i" xOffset="581.333"/>
+    <component base="f" xOffset="291"/>
+    <component base="i" xOffset="581"/>
   </outline>
   <lib>
     <dict>

@@ -3,13 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1143</string>
+    <string>1267</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Thin Italic</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
+    <array>
+      <string>Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron Õ/Otildemacron/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rinvertedbreve/Sacute/Scaron/Scedilla/Scircumflex/Scommaaccent/Tbar/Tcaron/Tcedilla/Tcommaaccent Ú/Ubreve/Ucaron Û/Udblgrave Ü/Udotbelow Ù/Uhookabove/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Uring/Utilde/Wacute/Wcircumflex/Wdieresis/Wgrave Ý/Ycircumflex/Ydieresis/Ydotbelow/Ygrave/Yhookabove/Ymacron/Ytilde á/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ã/ccircumflex/cdotaccent/dz/dzcaron/ebreve ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/etilde/schwa/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent ií/ibreve î/idblgrave ï/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/ij/imacron/itilde/lacute/lcaron/lcommaaccent/lj ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oslashacute õ/otildemacron/racute/rcaron/rcommaaccent/rdblgrave/rinvertedbreve/sacute/scaron/scedilla/scircumflex/scommaaccent/tbar/tcaron/tcedilla/tcommaaccent ú/ubreve û/udblgrave ü/udotbelow ù/uhookabove/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/utilde/wacute/wcircumflex/wdieresis/wgrave/ydotbelow/ygrave/yhookabove/ymacron/f_f_i/f_f_ij/f_ij/macronbelowcomb/ijacute/ff/IJacute/f_f_ij</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
+    <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
+    <string>CDFC318D-9074-479A-9964-89F765A9D31D</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

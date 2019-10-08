@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>399.33333</real>
+      <integer>399</integer>
     </dict>
   </lib>
 </glyph>
