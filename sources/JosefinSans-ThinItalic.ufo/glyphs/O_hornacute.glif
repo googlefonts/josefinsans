@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohornacute" format="2">
-  <advance width="869.16667"/>
+  <advance width="869"/>
   <unicode hex="1EDA"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="acutecomb" xOffset="340.667" yOffset="254.833"/>
+    <component base="acutecomb" xOffset="341" yOffset="255"/>
   </outline>
 </glyph>
