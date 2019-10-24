@@ -1,5 +1,5 @@
 #!/bin/sh
-set -e
+#set -e
 
 
 echo "Generating Static fonts"
@@ -13,7 +13,7 @@ echo "Generating VFs"
 fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/ttf/JosefinSans[wght].ttf
 fontmake -m JosefinSans-Italic.designspace -o variable --output-path ../fonts/ttf/JosefinSans-Italic[wght].ttf
 
-rm -rf master_ufo/ instance_ufo/ instance_ufos/*
+rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
 
 echo "Post processing"
