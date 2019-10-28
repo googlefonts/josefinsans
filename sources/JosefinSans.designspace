@@ -20,6 +20,7 @@
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
+      <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
