@@ -11,15 +11,16 @@
   </axes>
   <sources>
     <source filename="JosefinSans-ThinItalic.ufo" name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
     <source filename="JosefinSans-LightItalic.ufo" name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
