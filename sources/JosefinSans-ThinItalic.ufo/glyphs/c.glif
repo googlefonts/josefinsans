@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="2">
-  <advance width="422.66667"/>
+  <advance width="423"/>
   <unicode hex="0063"/>
   <anchor x="187.667" y="0" name="bottom"/>
   <anchor x="234.833" y="378.333" name="top"/>
@@ -38,51 +38,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o</string>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>383.044</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>-6.132</real>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

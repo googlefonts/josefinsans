@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet" format="2">
-  <advance width="479.33333"/>
+  <advance width="479"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
@@ -19,41 +19,4 @@
       <point x="205.833" y="335.5"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <false/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>171.309</real>
-            <real>136.427</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>232.309</real>
-            <real>136.427</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

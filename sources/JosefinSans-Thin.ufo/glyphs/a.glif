@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a" format="2">
-  <advance width="542.33333"/>
+  <advance width="542"/>
   <unicode hex="0061"/>
   <anchor x="271.667" y="0" name="bottom"/>
   <anchor x="487.5" y="10" name="ogonek"/>
@@ -49,51 +49,6 @@
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>17.765</real>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>406.853</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -58,31 +58,4 @@
       <point x="679" y="448" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>-19</integer>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

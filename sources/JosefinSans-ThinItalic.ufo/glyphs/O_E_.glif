@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="OE" format="2">
-  <advance width="989.5"/>
+  <advance width="990"/>
   <unicode hex="0152"/>
   <outline>
     <contour>
@@ -46,95 +46,4 @@
       <point x="970.167" y="701.667" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>-7.647</real>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>707.647</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>3.132</real>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>696.868</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

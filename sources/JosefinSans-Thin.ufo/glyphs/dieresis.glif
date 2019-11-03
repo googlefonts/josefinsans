@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="373.16667"/>
+  <advance width="373"/>
   <unicode hex="00A8"/>
   <outline>
     <contour>
@@ -34,26 +34,4 @@
       <point x="247.167" y="514.167"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>499.544</real>
-            <real>42.868</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="degree" format="2">
-  <advance width="282.16667"/>
+  <advance width="282"/>
   <unicode hex="00B0"/>
   <outline>
     <contour>
@@ -34,41 +34,4 @@
       <point x="232.667" y="499.333"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <false/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>62.279</real>
-            <real>150.529</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>485.191</real>
-            <real>149.573</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

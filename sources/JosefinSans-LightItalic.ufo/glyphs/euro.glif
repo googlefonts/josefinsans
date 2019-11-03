@@ -17,26 +17,4 @@
     </contour>
     <component base="C" xOffset="53"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>139.941</real>
-            <real>225.735</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

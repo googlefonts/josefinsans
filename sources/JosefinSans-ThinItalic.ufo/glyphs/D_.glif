@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
-  <advance width="730.5"/>
+  <advance width="731"/>
   <unicode hex="0044"/>
   <anchor x="340.667" y="0" name="bottom"/>
   <anchor x="147" y="350" name="center"/>
@@ -35,51 +35,6 @@
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>3.485</real>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>696.559</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

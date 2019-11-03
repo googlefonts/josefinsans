@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s" format="2">
-  <advance width="345.66667"/>
+  <advance width="346"/>
   <unicode hex="0073"/>
   <anchor x="149.167" y="0" name="bottom"/>
   <anchor x="197.333" y="380.5" name="top"/>
@@ -46,68 +46,4 @@
       <point x="112.5" y="-5.5"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.hints</key>
-      <array>
-        <dict>
-          <key>horizontal</key>
-          <false/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>97.368</real>
-            <real>216.235</real>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>type</key>
-          <string>Stem</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <real>379.221</real>
-            <integer>-20</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>d</string>
-            <string>o</string>
-            <string>w</string>
-            <string>n</string>
-          </array>
-          <key>type</key>
-          <string>TopGhost</string>
-        </dict>
-        <dict>
-          <key>horizontal</key>
-          <true/>
-          <key>options</key>
-          <integer>0</integer>
-          <key>place</key>
-          <array>
-            <integer>-8</integer>
-            <integer>21</integer>
-          </array>
-          <key>stem</key>
-          <integer>-2</integer>
-          <key>target</key>
-          <array>
-            <string>u</string>
-            <string>p</string>
-          </array>
-          <key>type</key>
-          <string>BottomGhost</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
