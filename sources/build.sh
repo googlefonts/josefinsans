@@ -10,8 +10,8 @@ fontmake -m JosefinSans-Italic.designspace -o ttf --output-dir ../fonts/ttf/
 fontmake -m JosefinSans-Italic.designspace -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/ttf/JosefinSans[wght].ttf
-fontmake -m JosefinSans-Italic.designspace -o variable --output-path ../fonts/ttf/JosefinSans-Italic[wght].ttf
+fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/vf/JosefinSans[wght].ttf
+fontmake -m JosefinSans-Italic.designspace -o variable --output-path ../fonts/vf/JosefinSans-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
@@ -25,7 +25,7 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/ttf/*\[wght\].ttf)
+vfs=$(ls ../fonts/vf/*.ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -46,7 +46,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/ttf/$rtrip.ttx;
+	new_file=../fonts/vf/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
