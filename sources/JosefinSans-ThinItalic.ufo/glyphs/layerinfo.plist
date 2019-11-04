@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>color</key>
-    <string>1,0.75,0,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
@@ -710,6 +708,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.f_f</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f_f_i</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f_f_ij</key>
@@ -717,8 +717,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.f_f_l</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f_ij</key>
-      <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ff</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.fi</key>
       <integer>2</integer>
