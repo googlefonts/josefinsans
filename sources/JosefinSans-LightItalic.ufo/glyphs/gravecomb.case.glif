@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="156" y="401" name="_top"/>
+  <anchor x="123" y="615" name="top"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>201</integer>
+    </dict>
+  </lib>
+</glyph>

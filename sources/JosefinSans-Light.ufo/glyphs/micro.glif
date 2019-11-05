@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="509"/>
+  <unicode hex="00B5"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="477" y="10" name="ogonek"/>
+  <anchor x="255" y="397" name="top"/>
+  <anchor x="439" y="391" name="topright"/>
+  <outline>
+    <contour>
+      <point x="212" y="-11" type="curve" smooth="yes"/>
+      <point x="287" y="-11"/>
+      <point x="358" y="36"/>
+      <point x="378" y="97" type="curve"/>
+      <point x="373" y="125" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="420" y="391" type="line"/>
+      <point x="373" y="391" type="line"/>
+      <point x="373" y="183" type="line" smooth="yes"/>
+      <point x="373" y="95"/>
+      <point x="304" y="30"/>
+      <point x="228" y="30" type="curve"/>
+      <point x="168" y="33"/>
+      <point x="138" y="69"/>
+      <point x="136" y="120" type="curve"/>
+      <point x="136" y="391" type="line"/>
+      <point x="89" y="391" type="line"/>
+      <point x="89" y="109" type="line"/>
+      <point x="89" y="-201" type="line"/>
+      <point x="136" y="-201" type="line"/>
+      <point x="136" y="78" type="line"/>
+      <point x="94" y="79" type="line"/>
+      <point x="106" y="25"/>
+      <point x="149" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

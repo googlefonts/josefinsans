@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="697"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="552" y="818" type="line"/>
+      <point x="426" y="818" type="line"/>
+      <point x="96" y="-75" type="line"/>
+      <point x="222" y="-75" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="818" type="line"/>
+      <point x="606" y="818" type="line"/>
+      <point x="276" y="-75" type="line"/>
+      <point x="402" y="-75" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

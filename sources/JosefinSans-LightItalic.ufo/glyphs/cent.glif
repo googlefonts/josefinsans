@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="436"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="270" y="456" type="line"/>
+      <point x="206" y="-68" type="line"/>
+      <point x="239" y="-68" type="line"/>
+      <point x="303" y="456" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

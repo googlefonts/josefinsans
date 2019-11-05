@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="179.5" y="218.667" name="_center"/>
+  <outline>
+    <contour>
+      <point x="64.667" y="228.5" type="line"/>
+      <point x="62" y="208.833" type="line"/>
+      <point x="294" y="208.833" type="line"/>
+      <point x="296.667" y="228.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>399.33333</real>
+    </dict>
+  </lib>
+</glyph>

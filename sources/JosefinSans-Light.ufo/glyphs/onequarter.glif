@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="762"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="onesuperior" xOffset="7"/>
+    <component base="fraction" yScale="0.999" xOffset="111"/>
+    <component base="foursuperior" xOffset="423" yOffset="-328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

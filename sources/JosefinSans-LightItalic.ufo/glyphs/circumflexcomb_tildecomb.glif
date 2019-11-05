@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="283" y="443" name="_top"/>
+  <anchor x="332" y="793" name="top"/>
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="tildecomb" xScale="0.954" yScale="0.954" xOffset="-20" yOffset="290"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

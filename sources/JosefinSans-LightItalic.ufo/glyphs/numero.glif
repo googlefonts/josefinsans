@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1306"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="875" y="235" type="line"/>
+      <point x="870" y="193" type="line"/>
+      <point x="1246" y="193" type="line"/>
+      <point x="1251" y="235" type="line"/>
+    </contour>
+    <component base="N"/>
+    <component base="o" xOffset="827" yOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

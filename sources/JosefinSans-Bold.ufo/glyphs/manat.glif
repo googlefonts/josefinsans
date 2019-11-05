@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="786"/>
+  <unicode hex="20BC"/>
+  <anchor x="393" y="-20" name="bottom"/>
+  <anchor x="143" y="-103" name="bottomleft"/>
+  <anchor x="229" y="726" name="ogonek"/>
+  <anchor x="393" y="736" name="top"/>
+  <outline>
+    <contour>
+      <point x="330" y="831" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="456" y="831" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="464" type="curve" smooth="yes"/>
+      <point x="546" y="0" type="line"/>
+      <point x="691" y="0" type="line"/>
+      <point x="691" y="467" type="line" smooth="yes"/>
+      <point x="691" y="629"/>
+      <point x="559" y="744"/>
+      <point x="394" y="744" type="curve" smooth="yes"/>
+      <point x="394" y="744" type="line" smooth="yes"/>
+      <point x="228" y="744"/>
+      <point x="95" y="629"/>
+      <point x="95" y="467" type="curve" smooth="yes"/>
+      <point x="95" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="464" type="line" smooth="yes"/>
+      <point x="238" y="534"/>
+      <point x="305" y="603"/>
+      <point x="394" y="603" type="curve" smooth="yes"/>
+      <point x="476" y="603"/>
+      <point x="546" y="534"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

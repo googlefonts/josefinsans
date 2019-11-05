@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="225" y="445" name="_top"/>
+  <anchor x="225" y="667" name="top"/>
+  <outline>
+    <component base="circumflex"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>438</integer>
+    </dict>
+  </lib>
+</glyph>

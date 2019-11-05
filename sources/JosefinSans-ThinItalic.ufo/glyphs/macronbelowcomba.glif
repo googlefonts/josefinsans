@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomba" format="2">
+  <advance width="399.33333"/>
+  <outline>
+    <component base="macroncomb" xOffset="-102.833" yOffset="-610.167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
