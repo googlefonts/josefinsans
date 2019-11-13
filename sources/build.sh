@@ -64,3 +64,4 @@ do
 	gftools fix-nonhinting $ttf "$vf.fix";
 	mv "$ttf.fix" $ttf;
 done
+rm ../fonts/*.ttx ../fonts/*gasp.ttf
