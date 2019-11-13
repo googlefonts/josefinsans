@@ -57,6 +57,8 @@
     <integer>-250</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>100</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1242</integer>
     <key>openTypeOS2WinDescent</key>
