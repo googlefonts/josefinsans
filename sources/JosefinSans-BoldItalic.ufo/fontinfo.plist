@@ -88,6 +88,8 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapStyleName</key>
+    <string>bold italic</string>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>trademark</key>
