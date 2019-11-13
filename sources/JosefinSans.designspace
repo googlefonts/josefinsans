@@ -11,15 +11,16 @@
   </axes>
   <sources>
     <source filename="JosefinSans-Thin.ufo" name="Josefin Sans Thin" familyname="Josefin Sans" stylename="Thin">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
+
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
     <source filename="JosefinSans-Light.ufo" name="Josefin Sans Light" familyname="Josefin Sans" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
