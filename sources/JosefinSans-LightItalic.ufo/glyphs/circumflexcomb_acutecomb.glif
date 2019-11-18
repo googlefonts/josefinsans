@@ -4,7 +4,7 @@
   <anchor x="348" y="707" name="top"/>
   <outline>
     <component base="circumflexcomb"/>
-    <component base="acutecomb" xOffset="247" yOffset="105"/>
+    <component base="acutecomb" xOffset="248" yOffset="158"/>
   </outline>
   <lib>
     <dict>

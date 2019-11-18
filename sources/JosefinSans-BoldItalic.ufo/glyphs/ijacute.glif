@@ -4,8 +4,8 @@
   <outline>
     <component base="idotless"/>
     <component base="jdotless" xOffset="284"/>
-    <component base="acutecomb" xOffset="331"/>
-    <component base="acutecomb" xOffset="23"/>
+    <component base="acutecomb" xOffset="261"/>
+    <component base="acutecomb" xOffset="-47"/>
   </outline>
   <lib>
     <dict>

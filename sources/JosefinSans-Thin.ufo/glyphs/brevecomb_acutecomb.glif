@@ -2,7 +2,7 @@
 <glyph name="brevecomb_acutecomb" format="2">
   <outline>
     <component base="brevecomb"/>
-    <component base="acutecomb" xOffset="107.167" yOffset="193.833"/>
+    <component base="acutecomb" xOffset="83.5" yOffset="194.16600000000003"/>
   </outline>
   <lib>
     <dict>
