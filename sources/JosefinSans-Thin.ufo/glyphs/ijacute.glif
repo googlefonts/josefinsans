@@ -6,6 +6,7 @@
     <component base="dotlessj" xOffset="207.5"/>
     <component base="acutecomb" xOffset="25.5" yOffset="-18.666999999999973"/>
     <component base="acutecomb" xOffset="235.333" yOffset="-18.666999999999973"/>
+    <component base="jdotless" xOffset="207"/>
   </outline>
   <lib>
     <dict>
