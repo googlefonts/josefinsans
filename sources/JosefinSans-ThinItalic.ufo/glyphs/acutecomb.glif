@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="155.833" y="446.5" name="_top"/>
+  <anchor x="134" y="377.667" name="_top"/>
   <anchor x="228.833" y="612.5" name="top"/>
   <outline>
     <component base="acute"/>
