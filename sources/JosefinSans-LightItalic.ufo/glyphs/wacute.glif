@@ -2,6 +2,8 @@
 <glyph name="wacute" format="2">
   <advance width="666"/>
   <unicode hex="1E83"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="435" y="615" name="top"/>
   <outline>
     <component base="w"/>
     <component base="acutecomb" xOffset="202"/>

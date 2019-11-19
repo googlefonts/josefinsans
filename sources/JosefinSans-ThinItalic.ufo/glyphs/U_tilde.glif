@@ -2,6 +2,10 @@
 <glyph name="Utilde" format="2">
   <advance width="695"/>
   <unicode hex="0168"/>
+  <anchor x="323.833" y="0.0" name="bottom"/>
+  <anchor x="420" y="10" name="ogonek"/>
+  <anchor x="430.5" y="857.667" name="top"/>
+  <anchor x="621.167" y="595.667" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="tildecomb" xOffset="54" yOffset="324"/>

@@ -2,6 +2,8 @@
 <glyph name="ydieresis" format="2">
   <advance width="488"/>
   <unicode hex="00FF"/>
+  <anchor x="444" y="0" name="bottom"/>
+  <anchor x="317" y="437" name="top"/>
   <outline>
     <component base="y"/>
     <component base="dieresis" xOffset="71"/>

@@ -2,6 +2,8 @@
 <glyph name="euro" format="2">
   <advance width="743"/>
   <unicode hex="20AC"/>
+  <anchor x="473.16600000000005" y="-3.833" name="bottom"/>
+  <anchor x="511.16600000000005" y="701.167" name="top"/>
   <outline>
     <contour>
       <point x="99.333" y="397.833" type="line"/>

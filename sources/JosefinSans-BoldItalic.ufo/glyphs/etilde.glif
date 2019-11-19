@@ -2,6 +2,9 @@
 <glyph name="etilde" format="2">
   <advance width="555"/>
   <unicode hex="1EBD"/>
+  <anchor x="263" y="-20" name="bottom"/>
+  <anchor x="392" y="33" name="ogonek"/>
+  <anchor x="340" y="679" name="top"/>
   <outline>
     <component base="e"/>
     <component base="tildecomb" xOffset="-3" yOffset="43"/>

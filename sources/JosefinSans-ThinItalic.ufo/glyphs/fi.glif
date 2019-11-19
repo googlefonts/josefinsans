@@ -2,6 +2,9 @@
 <glyph name="fi" format="2">
   <advance width="510"/>
   <unicode hex="FB01"/>
+  <anchor x="381.16600000000005" y="0.0" name="bottom"/>
+  <anchor x="371.833" y="10.0" name="ogonek"/>
+  <anchor x="434.5" y="525.167" name="top"/>
   <outline>
     <contour>
       <point x="92.667" y="0" type="line"/>

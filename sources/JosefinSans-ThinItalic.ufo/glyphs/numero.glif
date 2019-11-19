@@ -2,6 +2,13 @@
 <glyph name="numero" format="2">
   <advance width="1288.5"/>
   <unicode hex="2116"/>
+  <anchor x="384.333" y="0.0" name="bottom_1"/>
+  <anchor x="1043.167" y="327.5" name="bottom_2"/>
+  <anchor x="1065.167" y="518.167" name="center"/>
+  <anchor x="1099.667" y="323.167" name="ogonek"/>
+  <anchor x="469.333" y="700.0" name="top_1"/>
+  <anchor x="1088.0" y="705.8330000000001" name="top_2"/>
+  <anchor x="1158.5" y="699.1669999999999" name="topright"/>
   <outline>
     <contour>
       <point x="871.667" y="235.833" type="line"/>

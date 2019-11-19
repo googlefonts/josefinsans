@@ -2,6 +2,10 @@
 <glyph name="f_f" format="2">
   <advance width="872"/>
   <unicode hex="FB00"/>
+  <anchor x="201" y="0" name="bottom_1"/>
+  <anchor x="637" y="0" name="bottom_2"/>
+  <anchor x="201" y="500" name="top_1"/>
+  <anchor x="637" y="500" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="436"/>

@@ -2,6 +2,10 @@
 <glyph name="Ubreve" format="2">
   <advance width="787"/>
   <unicode hex="016C"/>
+  <anchor x="363" y="0" name="bottom"/>
+  <anchor x="528" y="10" name="ogonek"/>
+  <anchor x="485" y="950" name="top"/>
+  <anchor x="733" y="630" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="brevecomb" xOffset="161" yOffset="293"/>

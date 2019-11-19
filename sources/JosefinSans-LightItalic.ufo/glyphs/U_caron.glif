@@ -2,6 +2,10 @@
 <glyph name="Ucaron" format="2">
   <advance width="717"/>
   <unicode hex="01D3"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <anchor x="445" y="10" name="ogonek"/>
+  <anchor x="464" y="952" name="top"/>
+  <anchor x="647" y="604" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="caroncomb" xOffset="145" yOffset="289"/>

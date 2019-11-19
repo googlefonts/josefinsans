@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="255.33333"/>
+  <advance width="255"/>
   <unicode hex="012E"/>
-  <anchor x="119.167" y="10" name="_ogonek"/>
   <outline>
     <contour>
       <point x="97.5" y="-188" type="curve"/>

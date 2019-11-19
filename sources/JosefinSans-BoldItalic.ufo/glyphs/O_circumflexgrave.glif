@@ -2,6 +2,12 @@
 <glyph name="Ocircumflexgrave" format="2">
   <advance width="852"/>
   <unicode hex="1ED2"/>
+  <anchor x="463" y="0" name="bottom"/>
+  <anchor x="463" y="350" name="center"/>
+  <anchor x="610" y="10" name="ogonek"/>
+  <anchor x="430" y="1027" name="top"/>
+  <anchor x="40" y="700" name="topleft"/>
+  <anchor x="715" y="586" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="circumflexcomb_gravecomb" xOffset="204" yOffset="293"/>

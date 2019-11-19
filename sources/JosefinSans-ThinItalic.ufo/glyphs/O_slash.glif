@@ -4,6 +4,10 @@
   <unicode hex="00D8"/>
   <anchor x="395.333" y="0" name="bottom"/>
   <anchor x="481.5" y="701.667" name="top"/>
+  <anchor x="455.333" y="350.0" name="center"/>
+  <anchor x="491.5" y="0.5" name="ogonek"/>
+  <anchor x="81.167" y="700.0" name="topleft"/>
+  <anchor x="718.833" y="597.5" name="topright"/>
   <outline>
     <contour>
       <point x="801.5" y="706.5" type="line"/>

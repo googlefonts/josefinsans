@@ -2,6 +2,11 @@
 <glyph name="ij" format="2">
   <advance width="581"/>
   <unicode hex="0133"/>
+  <anchor x="111" y="0" name="bottom_1"/>
+  <anchor x="406" y="0" name="bottom_2"/>
+  <anchor x="140" y="10" name="ogonek"/>
+  <anchor x="195" y="673" name="top_1"/>
+  <anchor x="491" y="673" name="top_2"/>
   <outline>
     <component base="i"/>
     <component base="j" xOffset="284"/>
