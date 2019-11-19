@@ -2,6 +2,9 @@
 <glyph name="ecaron" format="2">
   <advance width="464"/>
   <unicode hex="011B"/>
+  <anchor x="223" y="-5" name="bottom"/>
+  <anchor x="372" y="17" name="ogonek"/>
+  <anchor x="267" y="403" name="top"/>
   <outline>
     <component base="e"/>
     <component base="caron" xOffset="-1"/>

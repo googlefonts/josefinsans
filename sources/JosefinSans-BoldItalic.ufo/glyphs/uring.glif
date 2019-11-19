@@ -2,6 +2,10 @@
 <glyph name="uring" format="2">
   <advance width="596"/>
   <unicode hex="016F"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="460" y="11" name="ogonek"/>
+  <anchor x="327" y="500" name="top"/>
+  <anchor x="501" y="321" name="topright"/>
   <outline>
     <contour>
       <point x="274" y="567" type="curve" smooth="yes"/>

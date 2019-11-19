@@ -2,6 +2,8 @@
 <glyph name="Rinvertedbreve" format="2">
   <advance width="687"/>
   <unicode hex="0212"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="402" y="960" name="top"/>
   <outline>
     <component base="R"/>
     <component base="breveinvertedcomb" xOffset="-34" yOffset="273"/>

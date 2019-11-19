@@ -2,6 +2,10 @@
 <glyph name="Ecircumflexgrave" format="2">
   <advance width="667"/>
   <unicode hex="1EC0"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="554" y="10" name="ogonek"/>
+  <anchor x="364" y="1027" name="top"/>
+  <anchor x="3" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
     <component base="circumflexcomb_gravecomb" xOffset="138" yOffset="293"/>

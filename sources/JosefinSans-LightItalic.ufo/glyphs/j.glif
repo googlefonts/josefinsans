@@ -2,6 +2,8 @@
 <glyph name="j" format="2">
   <advance width="236"/>
   <unicode hex="006A"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="163" y="552" name="top"/>
   <outline>
     <component base="jdotless"/>
     <component base="dotaccentcomb" xOffset="-7" yOffset="-11"/>

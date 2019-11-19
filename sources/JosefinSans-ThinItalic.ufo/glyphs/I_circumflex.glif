@@ -2,6 +2,10 @@
 <glyph name="Icircumflex" format="2">
   <advance width="258"/>
   <unicode hex="00CE"/>
+  <anchor x="105.5" y="0.0" name="bottom"/>
+  <anchor x="113.667" y="9.5" name="ogonek"/>
+  <anchor x="215.16699999999997" y="984.5" name="top"/>
+  <anchor x="79" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="circumflexcomb" xOffset="-97" yOffset="324"/>

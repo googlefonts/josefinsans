@@ -2,6 +2,10 @@
 <glyph name="dcaron" format="2">
   <advance width="623"/>
   <unicode hex="010F"/>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="447" y="497" name="center"/>
+  <anchor x="287" y="408" name="top"/>
+  <anchor x="586" y="667" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="quoteright" xOffset="494"/>

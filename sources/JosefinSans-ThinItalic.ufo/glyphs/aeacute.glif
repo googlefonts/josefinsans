@@ -2,9 +2,11 @@
 <glyph name="aeacute" format="2">
   <advance width="761"/>
   <unicode hex="01FD"/>
+  <anchor x="354.333" y="0.0" name="bottom"/>
+  <anchor x="495.83299999999997" y="612.833" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="267" yOffset="0.33300000000002683"/>
+    <component base="acutecomb" xOffset="267" yOffset="0.333"/>
   </outline>
   <lib>
     <dict>

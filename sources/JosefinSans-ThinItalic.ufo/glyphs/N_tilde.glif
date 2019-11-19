@@ -2,6 +2,8 @@
 <glyph name="Ntilde" format="2">
   <advance width="813"/>
   <unicode hex="00D1"/>
+  <anchor x="384.333" y="0.0" name="bottom"/>
+  <anchor x="489.5" y="855.667" name="top"/>
   <outline>
     <component base="N"/>
     <component base="tildecomb" xOffset="113" yOffset="322"/>

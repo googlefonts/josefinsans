@@ -2,6 +2,8 @@
 <glyph name="napostrophe" format="2">
   <advance width="600"/>
   <unicode hex="0149"/>
+  <anchor x="220.333" y="0.0" name="bottom"/>
+  <anchor x="267.0" y="380.5" name="top"/>
   <outline>
     <component base="apostrophemod" xOffset="-66.833"/>
     <component base="n"/>

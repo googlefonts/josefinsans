@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
   <advance width="1016"/>
+  <anchor x="84.333" y="0.0" name="bottom_1"/>
+  <anchor x="942.333" y="-65.833" name="bottom_2"/>
+  <anchor x="667.5" y="10.0" name="ogonek"/>
+  <anchor x="730.167" y="525.167" name="top_1"/>
+  <anchor x="950.167" y="525.167" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="f_ij" xOffset="291"/>

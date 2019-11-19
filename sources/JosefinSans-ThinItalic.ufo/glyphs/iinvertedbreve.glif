@@ -2,6 +2,9 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="208"/>
   <unicode hex="020B"/>
+  <anchor x="77.333" y="0.0" name="bottom"/>
+  <anchor x="85.5" y="10.0" name="ogonek"/>
+  <anchor x="165.83300000000003" y="609.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="breveinvertedcomb" xOffset="-188" yOffset="-78"/>

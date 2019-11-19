@@ -2,6 +2,8 @@
 <glyph name="dollar" format="2">
   <advance width="568"/>
   <unicode hex="0024"/>
+  <anchor x="251.667" y="0.0" name="bottom"/>
+  <anchor x="335.667" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="254.333" y="-68" type="line"/>

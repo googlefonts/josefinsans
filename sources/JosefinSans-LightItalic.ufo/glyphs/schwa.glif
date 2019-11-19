@@ -2,6 +2,9 @@
 <glyph name="schwa" format="2">
   <advance width="488"/>
   <unicode hex="0259"/>
+  <anchor x="265" y="396" name="bottom"/>
+  <anchor x="116" y="374" name="ogonek"/>
+  <anchor x="221" y="-12" name="top"/>
   <outline>
     <component base="e" xScale="-1" yScale="-1" xOffset="488" yOffset="391"/>
   </outline>

@@ -11,16 +11,15 @@
   </axes>
   <sources>
     <source filename="JosefinSans-ThinItalic.ufo" name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic">
-
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
     <source filename="JosefinSans-LightItalic.ufo" name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -32,7 +31,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="instance_ufos/JosefinSans-ThinItalic.ufo">
+    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="../instance_ufo/JosefinSans-ThinItalic.ufo" stylemapfamilyname="Josefin Sans Thin Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -75,23 +74,10 @@
               <integer>991</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>F00880BB-4A9B-44A4-8672-9F3737C6D7D7</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Thin</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="instance_ufos/JosefinSans-LightItalic.ufo">
+    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="../instance_ufo/JosefinSans-LightItalic.ufo" stylemapfamilyname="Josefin Sans Light Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -134,23 +120,10 @@
               <integer>991</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>CDFC318D-9074-479A-9964-89F765A9D31D</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="instance_ufos/JosefinSans-Italic.ufo">
+    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="../instance_ufo/JosefinSans-Italic.ufo" stylemapfamilyname="Josefin Sans Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -193,51 +166,17 @@
               <integer>991</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>CDFC318D-9074-479A-9964-89F765A9D31D</key>
-            <real>0.5</real>
-            <key>UUID1</key>
-            <real>0.5</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="instance_ufos/JosefinSans-SemiBoldItalic.ufo">
+    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="../instance_ufo/JosefinSans-SemiBoldItalic.ufo" stylemapfamilyname="Josefin Sans SemiBold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>CDFC318D-9074-479A-9964-89F765A9D31D</key>
-            <real>0.3</real>
-            <key>UUID1</key>
-            <real>0.7</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="instance_ufos/JosefinSans-BoldItalic.ufo">
+    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="../instance_ufo/JosefinSans-BoldItalic.ufo" stylemapfamilyname="Josefin Sans Bold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
@@ -280,19 +219,6 @@
               <integer>991</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>UUID1</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

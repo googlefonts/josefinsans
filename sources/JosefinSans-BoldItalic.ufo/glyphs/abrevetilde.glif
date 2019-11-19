@@ -2,6 +2,9 @@
 <glyph name="abrevetilde" format="2">
   <advance width="618"/>
   <unicode hex="1EB5"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="531" y="10" name="ogonek"/>
+  <anchor x="410" y="897" name="top"/>
   <outline>
     <component base="a"/>
     <component base="brevecomb_tildecomb" xOffset="56" yOffset="33"/>

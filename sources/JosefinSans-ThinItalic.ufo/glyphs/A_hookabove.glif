@@ -2,6 +2,9 @@
 <glyph name="Ahookabove" format="2">
   <advance width="709"/>
   <unicode hex="1EA2"/>
+  <anchor x="332" y="0" name="bottom"/>
+  <anchor x="616.5" y="10.0" name="ogonek"/>
+  <anchor x="444.83299999999997" y="922.833" name="top"/>
   <outline>
     <component base="A"/>
     <component base="hookabovecomb" xOffset="289" yOffset="255"/>

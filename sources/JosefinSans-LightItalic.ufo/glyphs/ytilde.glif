@@ -2,6 +2,8 @@
 <glyph name="ytilde" format="2">
   <advance width="600"/>
   <unicode hex="1EF9"/>
+  <anchor x="337" y="-7" name="bottom"/>
+  <anchor x="261" y="391" name="top"/>
   <outline>
     <component base="y"/>
     <component base="tilde"/>

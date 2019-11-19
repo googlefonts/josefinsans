@@ -1,9 +1,12 @@
 #!/bin/sh
-#set -e
+set -e
 
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
+mkdir -p ../fonts/otf
+mkdir -p ../fonts/ttf
+mkdir -p ../fonts/vf
 fontmake -m JosefinSans.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m JosefinSans.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m JosefinSans-Italic.designspace -o ttf --output-dir ../fonts/ttf/
@@ -26,7 +29,7 @@ do
 done
 
 vfs=$(ls ../fonts/vf/*.ttf)
-
+echo vfs
 echo "Post processing VFs"
 for vf in $vfs
 do
@@ -34,8 +37,6 @@ do
 	#ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
 	#mv "$vf.fix" $vf;
 done
-
-
 
 echo "Fixing VF Meta"
 gftools fix-vf-meta $vfs;
@@ -55,7 +56,6 @@ done
 echo "Fixing Hinting"
 for vf in $vfs
 do
-
 	gftools fix-nonhinting $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done

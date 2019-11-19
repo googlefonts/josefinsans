@@ -2,6 +2,8 @@
 <glyph name="ygrave" format="2">
   <advance width="422"/>
   <unicode hex="1EF3"/>
+  <anchor x="304.5" y="-8.667" name="bottom"/>
+  <anchor x="223.833" y="612.5" name="top"/>
   <outline>
     <component base="y"/>
     <component base="gravecomb" xOffset="110"/>
