@@ -3,8 +3,13 @@
   <advance width="762"/>
   <unicode hex="00BC"/>
   <outline>
+    <contour>
+      <point x="582" y="671.328" type="line"/>
+      <point x="536" y="671.328" type="line"/>
+      <point x="129" y="0.0" type="line"/>
+      <point x="175" y="0.0" type="line"/>
+    </contour>
     <component base="onesuperior" xOffset="7"/>
-    <component base="fraction" yScale="0.999" xOffset="111"/>
     <component base="foursuperior" xOffset="423" yOffset="-328"/>
   </outline>
   <lib>

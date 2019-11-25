@@ -3,7 +3,22 @@
   <anchor x="223" y="499" name="_top"/>
   <anchor x="223" y="699" name="top"/>
   <outline>
-    <component base="breve" xScale="-1" yScale="-1" xOffset="435" yOffset="1157"/>
+    <contour>
+      <point x="217" y="687" type="curve"/>
+      <point x="124" y="687"/>
+      <point x="72" y="630"/>
+      <point x="50" y="500" type="curve"/>
+      <point x="143" y="500" type="line"/>
+      <point x="155" y="557"/>
+      <point x="170" y="594"/>
+      <point x="217" y="594" type="curve"/>
+      <point x="264" y="594"/>
+      <point x="280" y="557"/>
+      <point x="292" y="500" type="curve"/>
+      <point x="385" y="500" type="line"/>
+      <point x="363" y="626"/>
+      <point x="311" y="687"/>
+    </contour>
   </outline>
   <lib>
     <dict>

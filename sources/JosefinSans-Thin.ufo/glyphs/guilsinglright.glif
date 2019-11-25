@@ -1,9 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright" format="2">
-  <advance width="390.16667"/>
+  <advance width="390"/>
   <unicode hex="203A"/>
   <outline>
-    <component base="guilsinglleft" xScale="-1" xOffset="402.5"/>
+    <contour>
+      <point x="290.0" y="239.167" type="curve"/>
+      <point x="115.33300000000003" y="75.333" type="line"/>
+      <point x="115.33300000000003" y="96.167" type="line"/>
+      <point x="160.333" y="143.0"/>
+      <point x="210.333" y="192.333"/>
+      <point x="255.167" y="239.167" type="curve"/>
+      <point x="210.333" y="285.167"/>
+      <point x="160.333" y="334.5"/>
+      <point x="115.33300000000003" y="380.333" type="curve"/>
+      <point x="115.33300000000003" y="402.167" type="line"/>
+      <point x="169.833" y="350.5"/>
+      <point x="235.5" y="290.833"/>
+    </contour>
   </outline>
   <lib>
     <dict>
