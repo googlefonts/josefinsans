@@ -3,8 +3,35 @@
   <anchor x="249" y="437" name="_top"/>
   <anchor x="300" y="850" name="top"/>
   <outline>
+    <contour>
+      <point x="362.164" y="688.012" type="curve"/>
+      <point x="421.6648" y="683.88"/>
+      <point x="476.2072" y="746.6864"/>
+      <point x="472.0752" y="833.4584" type="curve"/>
+      <point x="401.8312" y="838.4168" type="line"/>
+      <point x="401.0048" y="806.1872000000001"/>
+      <point x="394.3936" y="768.9992"/>
+      <point x="368.7752" y="770.652" type="curve"/>
+      <point x="353.0736" y="771.4784"/>
+      <point x="339.8512" y="786.3536"/>
+      <point x="323.3232" y="802.8815999999999" type="curve"/>
+      <point x="302.6632" y="824.368"/>
+      <point x="279.524" y="848.3336"/>
+      <point x="246.46800000000002" y="849.9864" type="curve"/>
+      <point x="168.78640000000001" y="854.9448"/>
+      <point x="120.8552" y="782.2216000000001"/>
+      <point x="120.0288" y="704.54" type="curve"/>
+      <point x="190.27280000000002" y="699.5816" type="line"/>
+      <point x="190.27280000000002" y="730.1584"/>
+      <point x="201.016" y="764.8672"/>
+      <point x="228.2872" y="763.2144000000001" type="curve"/>
+      <point x="243.16240000000002" y="762.388"/>
+      <point x="255.5584" y="750.8184"/>
+      <point x="268.7808" y="737.596" type="curve"/>
+      <point x="291.09360000000004" y="716.1096"/>
+      <point x="315.8856" y="690.4911999999999"/>
+    </contour>
     <component base="circumflexcomb"/>
-    <component base="tildecomb" xScale="0.8264" yScale="0.8264" xOffset="44" yOffset="312"/>
   </outline>
   <lib>
     <dict>
