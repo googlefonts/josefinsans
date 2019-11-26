@@ -3,6 +3,33 @@
   <advance width="613"/>
   <unicode hex="00BB"/>
   <outline>
-    <component base="guillemetleft" xScale="-1" xOffset="588"/>
+    <contour>
+      <point x="439" y="244" type="curve"/>
+      <point x="290" y="39" type="line"/>
+      <point x="273" y="181" type="line"/>
+      <point x="273" y="181"/>
+      <point x="306" y="244"/>
+      <point x="306" y="244" type="curve"/>
+      <point x="306" y="244"/>
+      <point x="257" y="306"/>
+      <point x="257" y="306" type="curve"/>
+      <point x="240" y="448" type="line"/>
+      <point x="240" y="448"/>
+      <point x="439" y="244"/>
+    </contour>
+    <contour>
+      <point x="265" y="244" type="curve"/>
+      <point x="115" y="39" type="line"/>
+      <point x="98" y="181" type="line"/>
+      <point x="98" y="181"/>
+      <point x="132" y="244"/>
+      <point x="132" y="244" type="curve"/>
+      <point x="132" y="244"/>
+      <point x="82" y="307"/>
+      <point x="82" y="307" type="curve"/>
+      <point x="65" y="448" type="line"/>
+      <point x="65" y="448"/>
+      <point x="265" y="244"/>
+    </contour>
   </outline>
 </glyph>

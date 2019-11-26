@@ -4,7 +4,16 @@
   <anchor x="110.833" y="536.333" name="_top"/>
   <anchor x="156.333" y="753.667" name="top"/>
   <outline>
-    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="190.5" yOffset="543.667"/>
+    <contour>
+      <point x="179.333" y="725.3340000000001" type="line"/>
+      <point x="123.166" y="699.667"/>
+      <point x="107.166" y="643.3340000000001"/>
+      <point x="106.833" y="591.0010000000001" type="curve"/>
+      <point x="128.333" y="590.0010000000001" type="line"/>
+      <point x="128.0" y="646.667"/>
+      <point x="147.666" y="691.3340000000001"/>
+      <point x="188.166" y="715.5010000000001" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

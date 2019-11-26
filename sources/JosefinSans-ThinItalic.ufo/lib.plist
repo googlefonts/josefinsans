@@ -6,49 +6,49 @@
     <array>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>alphabetical</string>
       </dict>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>category</string>
       </dict>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>unicode</string>
       </dict>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>script</string>
       </dict>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>suffix</string>
       </dict>
       <dict>
         <key>allowPseudoUnicode</key>
-        <true/>
+        <integer>1</integer>
         <key>ascending</key>
-        <true/>
+        <integer>1</integer>
         <key>type</key>
         <string>decompositionBase</string>
       </dict>
@@ -85,8 +85,6 @@
     <integer>20</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>F00880BB-4A9B-44A4-8672-9F3737C6D7D7</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
@@ -102,17 +100,17 @@
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <true/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
-    <true/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <false/>
+    <integer>0</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>

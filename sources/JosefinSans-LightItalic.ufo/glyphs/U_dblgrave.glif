@@ -2,6 +2,10 @@
 <glyph name="Udblgrave" format="2">
   <advance width="717"/>
   <unicode hex="0214"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <anchor x="445" y="10" name="ogonek"/>
+  <anchor x="390" y="932" name="top"/>
+  <anchor x="647" y="604" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="dblgravecomb" xOffset="226" yOffset="317"/>

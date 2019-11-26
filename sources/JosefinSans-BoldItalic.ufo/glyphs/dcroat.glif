@@ -2,6 +2,10 @@
 <glyph name="dcroat" format="2">
   <advance width="595"/>
   <unicode hex="0111"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="327" y="250" name="center"/>
+  <anchor x="327" y="500" name="top"/>
+  <anchor x="664" y="500" name="topright"/>
   <outline>
     <contour>
       <point x="347" y="700" type="line"/>

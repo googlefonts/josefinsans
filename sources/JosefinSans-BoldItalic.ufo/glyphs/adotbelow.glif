@@ -2,6 +2,9 @@
 <glyph name="adotbelow" format="2">
   <advance width="618"/>
   <unicode hex="1EA1"/>
+  <anchor x="272" y="-190" name="bottom"/>
+  <anchor x="531" y="10" name="ogonek"/>
+  <anchor x="357" y="470" name="top"/>
   <outline>
     <component base="a"/>
     <component base="dotbelowcomb" xOffset="204" yOffset="-20"/>

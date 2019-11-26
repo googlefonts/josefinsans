@@ -4,7 +4,22 @@
   <anchor x="409" y="457" name="_top"/>
   <anchor x="436" y="687" name="top"/>
   <outline>
-    <component base="breve" xScale="-1" yScale="-1" xOffset="685" yOffset="1157"/>
+    <contour>
+      <point x="436" y="687" type="curve"/>
+      <point x="343" y="693"/>
+      <point x="275" y="639"/>
+      <point x="247" y="490" type="curve"/>
+      <point x="339" y="490" type="line"/>
+      <point x="358" y="561"/>
+      <point x="378" y="597"/>
+      <point x="424" y="594" type="curve"/>
+      <point x="471" y="591"/>
+      <point x="482" y="553"/>
+      <point x="487" y="490" type="curve"/>
+      <point x="580" y="490" type="line"/>
+      <point x="573" y="617"/>
+      <point x="529" y="681"/>
+    </contour>
   </outline>
   <lib>
     <dict>

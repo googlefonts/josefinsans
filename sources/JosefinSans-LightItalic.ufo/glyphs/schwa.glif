@@ -2,7 +2,40 @@
 <glyph name="schwa" format="2">
   <advance width="488"/>
   <unicode hex="0259"/>
+  <anchor x="265" y="396" name="bottom"/>
+  <anchor x="116" y="374" name="ogonek"/>
+  <anchor x="221" y="-12" name="top"/>
   <outline>
-    <component base="e" xScale="-1" yScale="-1" xOffset="488" yOffset="391"/>
+    <contour>
+      <point x="236" y="358" type="curve" smooth="yes"/>
+      <point x="326" y="358"/>
+      <point x="391" y="290"/>
+      <point x="391" y="200" type="curve" smooth="yes"/>
+      <point x="391" y="106"/>
+      <point x="317" y="28"/>
+      <point x="220" y="28" type="curve" smooth="yes"/>
+      <point x="152" y="28"/>
+      <point x="105" y="75"/>
+      <point x="87" y="134" type="curve"/>
+      <point x="69" y="120" type="line"/>
+      <point x="400" y="222" type="line"/>
+      <point x="392" y="258" type="line"/>
+      <point x="35" y="147" type="line"/>
+      <point x="57" y="42"/>
+      <point x="125" y="-11"/>
+      <point x="219" y="-11" type="curve" smooth="yes"/>
+      <point x="349" y="-11"/>
+      <point x="438" y="94"/>
+      <point x="438" y="205" type="curve" smooth="yes"/>
+      <point x="438" y="319"/>
+      <point x="357" y="398"/>
+      <point x="240" y="398" type="curve" smooth="yes"/>
+      <point x="194" y="398"/>
+      <point x="147" y="383"/>
+      <point x="109" y="357" type="curve"/>
+      <point x="129" y="321" type="line"/>
+      <point x="159" y="344"/>
+      <point x="197" y="358"/>
+    </contour>
   </outline>
 </glyph>

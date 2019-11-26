@@ -2,6 +2,10 @@
 <glyph name="NJ" format="2">
   <advance width="1156"/>
   <unicode hex="01CA"/>
+  <anchor x="391" y="0" name="bottom_1"/>
+  <anchor x="961" y="0" name="bottom_2"/>
+  <anchor x="471" y="700" name="top_1"/>
+  <anchor x="1079" y="710" name="top_2"/>
   <outline>
     <component base="N"/>
     <component base="J" xOffset="824"/>

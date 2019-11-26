@@ -2,6 +2,11 @@
 <glyph name="oslashacute" format="2">
   <advance width="546"/>
   <unicode hex="01FF"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="278" y="250" name="center"/>
+  <anchor x="409" y="10" name="ogonek"/>
+  <anchor x="345" y="637" name="top"/>
+  <anchor x="441" y="343" name="topright"/>
   <outline>
     <component base="oslash"/>
     <component base="acutecomb" xOffset="98" yOffset="13"/>

@@ -2,6 +2,10 @@
 <glyph name="Uring" format="2">
   <advance width="717"/>
   <unicode hex="016E"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <anchor x="445" y="10" name="ogonek"/>
+  <anchor x="443" y="886" name="top"/>
+  <anchor x="647" y="604" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="ringcomb" xOffset="169" yOffset="317"/>

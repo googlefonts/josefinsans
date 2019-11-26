@@ -1,9 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown" format="2">
-  <advance width="200.16667"/>
+  <advance width="200"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yScale="-1" yOffset="540.5"/>
+    <contour>
+      <point x="90.5" y="-210.16700000000003" type="line"/>
+      <point x="90.5" y="373.0" type="line"/>
+      <point x="109.333" y="373.0" type="line"/>
+      <point x="109.333" y="-210.16700000000003" type="line"/>
+    </contour>
+    <contour>
+      <point x="101.0" y="507.66700000000003" type="curve" smooth="yes"/>
+      <point x="113.667" y="507.66700000000003"/>
+      <point x="124.667" y="496.83299999999997"/>
+      <point x="124.667" y="482.5" type="curve" smooth="yes"/>
+      <point x="124.667" y="469.33299999999997"/>
+      <point x="113.667" y="458.33299999999997"/>
+      <point x="101.0" y="458.33299999999997" type="curve" smooth="yes"/>
+      <point x="87.5" y="458.33299999999997"/>
+      <point x="76.333" y="469.33299999999997"/>
+      <point x="76.333" y="482.5" type="curve" smooth="yes"/>
+      <point x="76.333" y="496.83299999999997"/>
+      <point x="87.5" y="507.66700000000003"/>
+    </contour>
   </outline>
   <lib>
     <dict>

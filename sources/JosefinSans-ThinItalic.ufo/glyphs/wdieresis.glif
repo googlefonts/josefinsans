@@ -2,6 +2,8 @@
 <glyph name="wdieresis" format="2">
   <advance width="659"/>
   <unicode hex="1E85"/>
+  <anchor x="299.667" y="0.0" name="bottom"/>
+  <anchor x="364.16700000000003" y="524.167" name="top"/>
   <outline>
     <component base="w"/>
     <component base="dieresiscomb" xOffset="118"/>

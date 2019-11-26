@@ -2,6 +2,11 @@
 <glyph name="odieresismacron" format="2">
   <advance width="519"/>
   <unicode hex="022B"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="249" y="204" name="center"/>
+  <anchor x="306" y="-1" name="ogonek"/>
+  <anchor x="306" y="677" name="top"/>
+  <anchor x="359" y="365" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="dieresiscomb" xOffset="48" yOffset="4"/>

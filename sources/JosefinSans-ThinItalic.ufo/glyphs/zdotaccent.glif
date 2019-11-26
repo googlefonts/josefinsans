@@ -2,6 +2,8 @@
 <glyph name="zdotaccent" format="2">
   <advance width="418.83333"/>
   <unicode hex="017C"/>
+  <anchor x="127.833" y="0.0" name="bottom"/>
+  <anchor x="174.333" y="377.667" name="top"/>
   <outline>
     <component base="z"/>
     <component base="dotaccent" xOffset="120.167"/>

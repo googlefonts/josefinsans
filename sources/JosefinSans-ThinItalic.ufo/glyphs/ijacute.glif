@@ -1,11 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
   <advance width="434"/>
+  <anchor x="77.333" y="0.0" name="bottom_1"/>
+  <anchor x="360.33299999999997" y="-65.833" name="bottom_2"/>
+  <anchor x="85.5" y="10.0" name="ogonek"/>
+  <anchor x="129.667" y="377.667" name="top_1"/>
+  <anchor x="350.0" y="377.667" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="jdotless" xOffset="208"/>
-    <component base="acutecomb" xOffset="216" yOffset="0.33300000000002683"/>
-    <component base="acutecomb" xOffset="-10.167000000000002" yOffset="0.5000000000000284"/>
+    <component base="acutecomb" xOffset="216" yOffset="0.333"/>
+    <component base="acutecomb" xOffset="-10.167" yOffset="0.5"/>
   </outline>
   <lib>
     <dict>

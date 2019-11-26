@@ -2,6 +2,8 @@
 <glyph name="scedilla" format="2">
   <advance width="346"/>
   <unicode hex="015F"/>
+  <anchor x="121.5" y="-224.167" name="bottom"/>
+  <anchor x="197.333" y="380.5" name="top"/>
   <outline>
     <component base="s"/>
     <component base="cedillacomb" xOffset="-89"/>

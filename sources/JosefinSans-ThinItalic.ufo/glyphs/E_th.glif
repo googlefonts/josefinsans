@@ -2,6 +2,9 @@
 <glyph name="Eth" format="2">
   <advance width="731"/>
   <unicode hex="00D0"/>
+  <anchor x="340.667" y="0.0" name="bottom"/>
+  <anchor x="147" y="350" name="center"/>
+  <anchor x="400.833" y="700.0" name="top"/>
   <outline>
     <component base="D"/>
     <component base="strokeshortcomb" xOffset="-33" yOffset="131"/>

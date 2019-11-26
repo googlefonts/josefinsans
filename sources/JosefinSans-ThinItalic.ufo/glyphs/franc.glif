@@ -2,6 +2,8 @@
 <glyph name="franc" format="2">
   <advance width="571.33333"/>
   <unicode hex="20A3"/>
+  <anchor x="262.5" y="0.0" name="bottom"/>
+  <anchor x="348.5" y="700.0" name="top"/>
   <outline>
     <component base="F"/>
     <component base="macron" xOffset="-124.167" yOffset="-339"/>
