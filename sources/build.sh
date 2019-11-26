@@ -25,7 +25,7 @@ for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
 	#ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	#mv "$ttf.fix" $ttf;
 done
 
 vfs=$(ls ../fonts/vf/*.ttf)
@@ -57,11 +57,18 @@ echo "Fixing Hinting"
 for vf in $vfs
 do
 	gftools fix-nonhinting $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
 done
+
 for ttf in $ttfs
 do
-	gftools fix-nonhinting $ttf "$vf.fix";
-	mv "$ttf.fix" $ttf;
+	gftools fix-nonhinting $ttf "$ttf.fix";
+	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $vf; fi
 done
-rm ../fonts/*.ttx ../fonts/*gasp.ttf
+
+rm -f ../fonts/vf/*.ttx
+rm -f ../fonts/ttf/*.ttx
+rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/ttf/*gasp.ttf
+
+echo "Done"
