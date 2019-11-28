@@ -2,7 +2,6 @@
 <glyph name="ohorn" format="2">
   <advance width="504"/>
   <unicode hex="01A1"/>
-  <anchor x="334.833" y="371.667" name="_topright"/>
   <anchor x="219.5" y="0" name="bottom"/>
   <anchor x="241.5" y="190.667" name="center"/>
   <anchor x="276" y="-4.333" name="ogonek"/>
