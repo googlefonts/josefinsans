@@ -63,7 +63,7 @@ done
 for ttf in $ttfs
 do
 	gftools fix-nonhinting $ttf "$ttf.fix";
-	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $vf; fi
+	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
 rm -f ../fonts/vf/*.ttx
