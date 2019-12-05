@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="759.0"/>
+  <unicode hex="0047"/>
+  <anchor x="388.5" y="0.0" name="bottom"/>
+  <anchor x="468.50000000000006" y="725.5000000000001" name="top"/>
+  <outline>
+    <contour>
+      <point x="655.5000000000001" y="45.5" type="curve"/>
+      <point x="692.5" y="350.00000000000006" type="line"/>
+      <point x="449.49999999999994" y="350.00000000000006" type="line"/>
+      <point x="438.0" y="257.5" type="line"/>
+      <point x="582.0" y="257.5" type="line"/>
+      <point x="564.0" y="106.00000000000001" type="line"/>
+      <point x="529.9999999999999" y="90.00000000000001"/>
+      <point x="481.5" y="83.00000000000001"/>
+      <point x="437.5" y="85.00000000000001" type="curve" smooth="yes"/>
+      <point x="321.5" y="90.50000000000001"/>
+      <point x="176.0" y="164.50000000000003"/>
+      <point x="178.0" y="332.00000000000006" type="curve" smooth="yes"/>
+      <point x="180.5" y="456.49999999999994"/>
+      <point x="255.00000000000003" y="627.9999999999999"/>
+      <point x="471.49999999999994" y="627.9999999999999" type="curve" smooth="yes"/>
+      <point x="534.9999999999999" y="628.4999999999999"/>
+      <point x="608.5" y="606.0"/>
+      <point x="658.5" y="572.0" type="curve"/>
+      <point x="702.0" y="659.5000000000001" type="line"/>
+      <point x="638.0000000000001" y="702.0"/>
+      <point x="554.0" y="724.0000000000001"/>
+      <point x="473.49999999999994" y="725.5" type="curve" smooth="yes"/>
+      <point x="198.0" y="728.0"/>
+      <point x="81.5" y="504.50000000000006"/>
+      <point x="77.0" y="329.0" type="curve" smooth="yes"/>
+      <point x="73.5" y="87.5"/>
+      <point x="285.0" y="-9.499999999999998"/>
+      <point x="430.0" y="-10.999999999999998" type="curve" smooth="yes"/>
+      <point x="509.5" y="-12.5"/>
+      <point x="612.5000000000001" y="15.000000000000004"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

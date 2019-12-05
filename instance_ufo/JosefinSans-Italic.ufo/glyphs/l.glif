@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="255.5"/>
+  <unicode hex="006C"/>
+  <anchor x="105.0" y="0.0" name="bottom"/>
+  <anchor x="130.5" y="264.5" name="center"/>
+  <anchor x="188.50000000000003" y="766.5" name="top"/>
+  <anchor x="313.5" y="741.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="150.0" y="774.5" type="line"/>
+      <point x="55.5" y="0.0" type="line"/>
+      <point x="149.0" y="0.0" type="line"/>
+      <point x="244.00000000000003" y="774.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

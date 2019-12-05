@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="550.0"/>
+  <unicode hex="0272"/>
+  <outline>
+    <contour>
+      <point x="25.000000000000004" y="-199.5" type="line"/>
+      <point x="89.0" y="-158.0"/>
+      <point x="136.0" y="-93.5"/>
+      <point x="147.0" y="-2.499999999999999" type="curve" smooth="yes"/>
+      <point x="153.0" y="45.0" type="line"/>
+      <point x="59.5" y="45.0" type="line"/>
+      <point x="54.0" y="1.0000000000000018" type="line" smooth="yes"/>
+      <point x="46.0" y="-62.5"/>
+      <point x="18.5" y="-109.49999999999999"/>
+      <point x="-23.000000000000004" y="-141.5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="186.5" y="414.0" type="line"/>
+      <point x="102.5" y="414.0" type="line"/>
+      <point x="52.0" y="0.0" type="line"/>
+      <point x="145.5" y="0.0" type="line"/>
+      <point x="169.5" y="194.0" type="line" smooth="yes"/>
+      <point x="180.5" y="285.5"/>
+      <point x="243.00000000000003" y="349.99999999999994"/>
+      <point x="315.00000000000006" y="349.99999999999994" type="curve"/>
+      <point x="367.0" y="349.0"/>
+      <point x="386.49999999999994" y="318.0"/>
+      <point x="383.50000000000006" y="273.5" type="curve"/>
+      <point x="350.0" y="0.0" type="line"/>
+      <point x="444.0" y="0.0" type="line"/>
+      <point x="481.50000000000006" y="306.0" type="line"/>
+      <point x="488.00000000000006" y="379.0"/>
+      <point x="439.0" y="430.00000000000006"/>
+      <point x="361.5" y="430.00000000000006" type="curve" smooth="yes"/>
+      <point x="282.5" y="430.00000000000006"/>
+      <point x="215.00000000000003" y="390.5"/>
+      <point x="180.5" y="329.00000000000006" type="curve"/>
+      <point x="182.5" y="313.50000000000006" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

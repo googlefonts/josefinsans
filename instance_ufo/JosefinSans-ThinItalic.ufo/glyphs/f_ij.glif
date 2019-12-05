@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_ij" format="2">
+  <advance width="725"/>
+  <anchor x="84.333" y="0.0" name="bottom"/>
+  <anchor x="385.83299999999997" y="0.0" name="bottom_1"/>
+  <anchor x="651.333" y="-65.833" name="bottom_2"/>
+  <anchor x="376.5" y="10.0" name="ogonek"/>
+  <anchor x="285.167" y="753.333" name="top"/>
+  <anchor x="439.16700000000003" y="525.167" name="top_1"/>
+  <anchor x="659.167" y="525.167" name="top_2"/>
+  <outline>
+    <component base="f"/>
+    <component base="ij" xOffset="291"/>
+  </outline>
+</glyph>

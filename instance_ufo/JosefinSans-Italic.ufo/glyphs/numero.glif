@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1340.0"/>
+  <unicode hex="2116"/>
+  <anchor x="401.00000000000006" y="0.0" name="bottom_1"/>
+  <anchor x="1087.0" y="307.0" name="bottom_2"/>
+  <anchor x="1095.5" y="534.0" name="center"/>
+  <anchor x="1189.5" y="311.49999999999994" name="ogonek"/>
+  <anchor x="472.00000000000006" y="700.0" name="top_1"/>
+  <anchor x="1116.5" y="729.5" name="top_2"/>
+  <anchor x="1232.0" y="661.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="880.0" y="233.99999999999997" type="line"/>
+      <point x="870.5" y="152.0" type="line"/>
+      <point x="1262.0" y="152.0" type="line"/>
+      <point x="1271.5" y="233.99999999999997" type="line"/>
+    </contour>
+    <component base="N"/>
+    <component base="o" xOffset="832.0" yOffset="307.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

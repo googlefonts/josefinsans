@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="499.5"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="326" y="730.5" type="line"/>
+      <point x="326" y="730.5" type="line"/>
+      <point x="117.667" y="284.167" type="line"/>
+      <point x="136.667" y="284.167" type="line"/>
+      <point x="319.167" y="676" type="line"/>
+      <point x="404.833" y="284.167" type="line"/>
+      <point x="424" y="284.167" type="line"/>
+    </contour>
+    <contour>
+      <point x="133.667" y="300.667" type="line"/>
+      <point x="131.333" y="284.167" type="line"/>
+      <point x="412.5" y="284.167" type="line"/>
+      <point x="414.833" y="300.667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

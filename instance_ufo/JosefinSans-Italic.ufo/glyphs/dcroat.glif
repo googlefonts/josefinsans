@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="562.0"/>
+  <unicode hex="0111"/>
+  <anchor x="290.0" y="0.0" name="bottom"/>
+  <anchor x="387.0" y="373.4999999999999" name="center"/>
+  <anchor x="307.0" y="454.0" name="top"/>
+  <anchor x="625.0000000000001" y="583.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="325.5" y="674.5" type="line"/>
+      <point x="317.5" y="606.5" type="line"/>
+      <point x="615.5000000000001" y="606.5" type="line"/>
+      <point x="624.0000000000001" y="674.5" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

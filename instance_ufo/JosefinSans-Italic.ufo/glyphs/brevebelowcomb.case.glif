@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <anchor x="216.5" y="0.0" name="_bottom"/>
+  <anchor x="190.5" y="-213.0" name="bottom"/>
+  <outline>
+    <component base="brevebelowcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>508.66667</real>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

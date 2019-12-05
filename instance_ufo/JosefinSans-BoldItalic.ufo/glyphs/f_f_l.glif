@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="2">
+  <advance width="1157"/>
+  <anchor x="201" y="0" name="bottom_1"/>
+  <anchor x="637" y="0" name="bottom_2"/>
+  <anchor x="992" y="0" name="bottom_3"/>
+  <anchor x="1019" y="309" name="center"/>
+  <anchor x="201" y="500" name="top_1"/>
+  <anchor x="637" y="500" name="top_2"/>
+  <anchor x="1075" y="776" name="top_3"/>
+  <anchor x="1222" y="736" name="topright"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="436"/>
+    <component base="l" xOffset="872"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

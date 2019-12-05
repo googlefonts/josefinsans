@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="629.0"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="547.5" y="527.5" type="line"/>
+      <point x="546.5" y="461.0" type="line"/>
+      <point x="647.0000000000001" y="461.0" type="line"/>
+      <point x="647.5" y="527.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="168.0" y="461.0" type="line"/>
+      <point x="168.5" y="527.5" type="line"/>
+      <point x="65.5" y="527.5" type="line"/>
+      <point x="64.5" y="461.0" type="line"/>
+    </contour>
+    <component base="P" xOffset="-8.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

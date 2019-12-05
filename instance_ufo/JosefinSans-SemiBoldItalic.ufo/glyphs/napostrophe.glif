@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0149"/>
+  <anchor x="259.3" y="0.0" name="bottom"/>
+  <anchor x="317.7" y="472.40000000000003" name="top"/>
+  <outline>
+    <component base="apostrophemod" xOffset="-103.50000000000001"/>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

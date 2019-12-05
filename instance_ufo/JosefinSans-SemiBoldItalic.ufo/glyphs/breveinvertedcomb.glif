@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="388.00000000000006" y="456.70000000000005" name="_top"/>
+  <anchor x="417.1" y="687.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="415.6" y="680.4" type="curve" smooth="yes"/>
+      <point x="327.4" y="685.2"/>
+      <point x="263.3" y="627.3"/>
+      <point x="238.9" y="492.4" type="curve"/>
+      <point x="313.8" y="492.4" type="line"/>
+      <point x="331.0" y="564.0"/>
+      <point x="356.40000000000003" y="607.2"/>
+      <point x="406.30000000000007" y="604.8" type="curve" smooth="yes"/>
+      <point x="447.90000000000003" y="602.4"/>
+      <point x="475.4" y="568.3000000000001"/>
+      <point x="476.8" y="492.4" type="curve"/>
+      <point x="552.1" y="492.4" type="line"/>
+      <point x="549.9" y="621.8"/>
+      <point x="493.6" y="675.9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>523.33333</real>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="759.2"/>
+  <unicode hex="20AC"/>
+  <anchor x="494.40000000000003" y="-0.899999999999999" name="bottom"/>
+  <anchor x="515.5" y="721.7" name="top"/>
+  <outline>
+    <contour>
+      <point x="88.3" y="477.3" type="line"/>
+      <point x="77.3" y="385.9" type="line"/>
+      <point x="452.5" y="385.9" type="line"/>
+      <point x="463.5" y="477.3" type="line"/>
+    </contour>
+    <contour>
+      <point x="70.8" y="330.7" type="line"/>
+      <point x="59.8" y="239.60000000000002" type="line"/>
+      <point x="434.0" y="239.60000000000002" type="line"/>
+      <point x="445.3" y="330.7" type="line"/>
+    </contour>
+    <component base="C" xOffset="63.50000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="595.0"/>
+  <unicode hex="0064"/>
+  <anchor x="290.0" y="0.0" name="bottom"/>
+  <anchor x="387.0" y="373.4999999999999" name="center"/>
+  <anchor x="307.0" y="454.0" name="top"/>
+  <anchor x="625.0000000000001" y="583.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="243.0" y="-8.5" type="curve" smooth="yes"/>
+      <point x="311.5" y="-11.000000000000002"/>
+      <point x="369.49999999999994" y="24.5"/>
+      <point x="414.5" y="74.5" type="curve"/>
+      <point x="407.0" y="99.0" type="line"/>
+      <point x="394.49999999999994" y="0.0" type="line"/>
+      <point x="488.0" y="0.0" type="line"/>
+      <point x="584.0" y="774.5" type="line"/>
+      <point x="490.5" y="774.5" type="line"/>
+      <point x="434.5" y="315.5" type="line"/>
+      <point x="454.00000000000006" y="339.0" type="line"/>
+      <point x="427.0" y="389.0"/>
+      <point x="366.00000000000006" y="429.0"/>
+      <point x="290.00000000000006" y="431.00000000000006" type="curve" smooth="yes"/>
+      <point x="142.49999999999997" y="433.5"/>
+      <point x="49.5" y="320.5"/>
+      <point x="44.5" y="200.5" type="curve" smooth="yes"/>
+      <point x="39.5" y="88.5"/>
+      <point x="124.0" y="-6.500000000000002"/>
+    </contour>
+    <contour>
+      <point x="271.0" y="70.5" type="curve" smooth="yes"/>
+      <point x="190.5" y="73.0"/>
+      <point x="136.5" y="132.5"/>
+      <point x="140.5" y="213.5" type="curve" smooth="yes"/>
+      <point x="145.5" y="302.99999999999994"/>
+      <point x="211.5" y="359.5"/>
+      <point x="298.5" y="356.5" type="curve" smooth="yes"/>
+      <point x="367.0" y="355.0"/>
+      <point x="417.5" y="310.50000000000006"/>
+      <point x="425.99999999999994" y="251.5" type="curve"/>
+      <point x="416.49999999999994" y="172.49999999999997" type="line"/>
+      <point x="393.0" y="108.5"/>
+      <point x="335.0" y="68.00000000000001"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

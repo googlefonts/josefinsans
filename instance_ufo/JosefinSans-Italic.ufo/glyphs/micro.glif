@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="546.5"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="185.49999999999997" y="-16.000000000000004" type="curve" smooth="yes"/>
+      <point x="262.0" y="-16.000000000000004"/>
+      <point x="327.49999999999994" y="26.999999999999996"/>
+      <point x="359.99999999999994" y="85.0" type="curve"/>
+      <point x="356.0" y="0.0" type="line"/>
+      <point x="440.50000000000006" y="0.0" type="line"/>
+      <point x="491.5" y="414.0" type="line"/>
+      <point x="398.0" y="414.0" type="line"/>
+      <point x="374.00000000000006" y="221.00000000000003" type="line" smooth="yes"/>
+      <point x="363.50000000000006" y="130.5"/>
+      <point x="301.0" y="64.0"/>
+      <point x="231.5" y="64.0" type="curve"/>
+      <point x="181.5" y="65.5"/>
+      <point x="163.0" y="96.0"/>
+      <point x="166.0" y="141.0" type="curve"/>
+      <point x="199.50000000000003" y="414.0" type="line"/>
+      <point x="106.0" y="414.0" type="line"/>
+      <point x="69.0" y="109.5" type="line"/>
+      <point x="31.499999999999996" y="-201.0" type="line"/>
+      <point x="109.5" y="-201.0" type="line"/>
+      <point x="152.0" y="146.0" type="line"/>
+      <point x="72.5" y="95.0" type="line"/>
+      <point x="72.0" y="30.0"/>
+      <point x="115.0" y="-16.000000000000004"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

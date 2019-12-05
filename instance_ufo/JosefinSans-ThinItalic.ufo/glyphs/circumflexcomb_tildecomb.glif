@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="293" y="444.667" name="_top"/>
+  <anchor x="342" y="775.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="398.43036267" y="725.931355" type="curve"/>
+      <point x="437.62739767000005" y="723.7819682200001"/>
+      <point x="472.69038589" y="753.7165950000001"/>
+      <point x="484.76307267000004" y="830.45744322" type="curve"/>
+      <point x="468.72106589" y="833.4344332200001" type="line"/>
+      <point x="455.48933767000005" y="758.6782450000001"/>
+      <point x="427.5393708900001" y="741.6439082200001"/>
+      <point x="400.58074178000004" y="743.62856822" type="curve"/>
+      <point x="372.29933678" y="745.44750911"/>
+      <point x="357.24866767000003" y="766.28643911"/>
+      <point x="342.19899089" y="787.95198" type="curve"/>
+      <point x="325.9902726700001" y="811.9336191100001"/>
+      <point x="309.61682767" y="836.90758822"/>
+      <point x="271.74356089" y="838.89224822" type="curve"/>
+      <point x="236.35012678" y="841.041635"/>
+      <point x="195.83031589" y="810.6108432200001"/>
+      <point x="183.42619089000002" y="734.36616" type="curve"/>
+      <point x="199.46819767" y="731.22444322" type="line"/>
+      <point x="212.86465267000003" y="805.9796391100001"/>
+      <point x="248.42380589" y="822.0226382200001"/>
+      <point x="270.75123089" y="821.03030822" type="curve"/>
+      <point x="298.20503267000004" y="819.04564822"/>
+      <point x="312.09765267" y="797.54483411"/>
+      <point x="326.98260267" y="776.04402" type="curve"/>
+      <point x="344.34837767" y="752.0633732200001"/>
+      <point x="361.7141526700001" y="727.916015"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

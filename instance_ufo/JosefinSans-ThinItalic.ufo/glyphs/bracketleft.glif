@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="352"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="187.833" y="746.667" type="line"/>
+      <point x="77.667" y="-149.167" type="line"/>
+      <point x="243" y="-149.167" type="line"/>
+      <point x="245.5" y="-130.333" type="line"/>
+      <point x="101" y="-130.333" type="line"/>
+      <point x="206" y="727.833" type="line"/>
+      <point x="350.5" y="727.833" type="line"/>
+      <point x="353" y="746.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

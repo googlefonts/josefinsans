@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="302.0"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="89.5" y="-214.50000000000003" type="curve"/>
+      <point x="131.0" y="-216.5"/>
+      <point x="180.0" y="-190.00000000000003"/>
+      <point x="207.5" y="-152.5" type="curve"/>
+      <point x="177.50000000000003" y="-103.5" type="line"/>
+      <point x="156.00000000000003" y="-132.49999999999997"/>
+      <point x="132.5" y="-149.0"/>
+      <point x="106.0" y="-148.0" type="curve"/>
+      <point x="81.0" y="-146.99999999999997"/>
+      <point x="58.50000000000001" y="-132.0"/>
+      <point x="61.00000000000001" y="-97.0" type="curve"/>
+      <point x="64.0" y="-56.5"/>
+      <point x="109.0" y="-28.5"/>
+      <point x="177.0" y="0.0" type="curve"/>
+      <point x="265.5" y="723.0" type="line"/>
+      <point x="165.49999999999997" y="723.0" type="line"/>
+      <point x="77.0" y="0.0" type="line"/>
+      <point x="84.0" y="21.0" type="line"/>
+      <point x="14.999999999999993" y="-5.999999999999999"/>
+      <point x="-18.000000000000004" y="-67.0"/>
+      <point x="-18.000000000000004" y="-110.5" type="curve"/>
+      <point x="-18.000000000000004" y="-170.50000000000003"/>
+      <point x="29.0" y="-211.0"/>
+    </contour>
+  </outline>
+</glyph>

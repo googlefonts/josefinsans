@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="695"/>
+  <unicode hex="0055"/>
+  <anchor x="323.833" y="0" name="bottom"/>
+  <anchor x="420" y="10" name="ogonek"/>
+  <anchor x="410.167" y="701.333" name="top"/>
+  <anchor x="621.167" y="595.667" name="topright"/>
+  <outline>
+    <contour>
+      <point x="144.833" y="230" type="curve" smooth="yes"/>
+      <point x="201.833" y="701.667" type="line"/>
+      <point x="181.833" y="701.667" type="line"/>
+      <point x="123.833" y="227.833" type="line" smooth="yes"/>
+      <point x="104.833" y="74.5"/>
+      <point x="193.167" y="-8"/>
+      <point x="323.667" y="-8" type="curve" smooth="yes"/>
+      <point x="323.667" y="-8" type="line" smooth="yes"/>
+      <point x="471.5" y="-8"/>
+      <point x="561.167" y="74.5"/>
+      <point x="580.333" y="227.833" type="curve" smooth="yes"/>
+      <point x="638.167" y="701.667" type="line"/>
+      <point x="618.167" y="701.667" type="line"/>
+      <point x="561.167" y="230" type="line" smooth="yes"/>
+      <point x="543.667" y="90.167"/>
+      <point x="458.167" y="10.667"/>
+      <point x="325.5" y="10.667" type="curve" smooth="yes"/>
+      <point x="204.167" y="10.667"/>
+      <point x="127.167" y="90.167"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

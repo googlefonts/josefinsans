@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="952.5"/>
+  <unicode hex="00C6"/>
+  <anchor x="427.5" y="0.0" name="bottom"/>
+  <anchor x="688.5000000000001" y="723.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="540.0" y="723.0" type="line"/>
+      <point x="451.50000000000006" y="0.0" type="line"/>
+      <point x="860.5" y="0.0" type="line"/>
+      <point x="872.0" y="93.50000000000001" type="line"/>
+      <point x="560.0" y="93.50000000000001" type="line"/>
+      <point x="587.0" y="315.0" type="line"/>
+      <point x="844.5" y="315.0" type="line"/>
+      <point x="856.0000000000001" y="408.50000000000006" type="line"/>
+      <point x="598.0" y="408.50000000000006" type="line"/>
+      <point x="625.5" y="629.0" type="line"/>
+      <point x="923.5" y="629.0" type="line"/>
+      <point x="935.0" y="723.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="541.0" y="614.5" type="curve"/>
+      <point x="540.0" y="723.0" type="line"/>
+      <point x="-13.000000000000002" y="0.0" type="line"/>
+      <point x="98.50000000000001" y="0.0" type="line"/>
+      <point x="526.5" y="577.0" type="line"/>
+      <point x="528.0" y="580.0"/>
+      <point x="536.5" y="601.9999999999999"/>
+    </contour>
+    <contour>
+      <point x="237.0" y="256.0" type="line"/>
+      <point x="199.5" y="178.5" type="line"/>
+      <point x="487.5" y="178.5" type="line"/>
+      <point x="497.0" y="256.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

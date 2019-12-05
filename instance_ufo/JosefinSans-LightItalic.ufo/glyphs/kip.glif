@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="610"/>
+  <unicode hex="20AD"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="391" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="427" type="line"/>
+      <point x="42" y="380" type="line"/>
+      <point x="549" y="380" type="line"/>
+      <point x="555" y="427" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+</glyph>

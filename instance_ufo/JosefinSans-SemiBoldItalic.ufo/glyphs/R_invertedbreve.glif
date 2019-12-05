@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rinvertedbreve" format="2">
+  <advance width="670.8"/>
+  <unicode hex="0212"/>
+  <anchor x="323.9" y="0.0" name="bottom"/>
+  <anchor x="396.3" y="953.6999999999999" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="breveinvertedcomb" xOffset="-20.80000000000001" yOffset="266.70000000000005"/>
+  </outline>
+</glyph>

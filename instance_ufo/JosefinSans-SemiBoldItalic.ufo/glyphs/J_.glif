@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="382.40000000000003"/>
+  <unicode hex="004A"/>
+  <anchor x="163.60000000000002" y="0.0" name="bottom"/>
+  <anchor x="276.7" y="728.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="269.70000000000005" y="140.60000000000002" type="curve" smooth="yes"/>
+      <point x="341.6" y="728.2" type="line"/>
+      <point x="225.0" y="728.2" type="line"/>
+      <point x="153.79999999999998" y="143.60000000000002" type="line" smooth="yes"/>
+      <point x="138.5" y="20.30000000000001"/>
+      <point x="66.2" y="-32.499999999999986"/>
+      <point x="-26.3" y="-37.499999999999986" type="curve"/>
+      <point x="-40.0" y="-150.6" type="line"/>
+      <point x="-40.0" y="-150.6" type="line"/>
+      <point x="120.20000000000002" y="-145.9"/>
+      <point x="247.90000000000003" y="-41.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

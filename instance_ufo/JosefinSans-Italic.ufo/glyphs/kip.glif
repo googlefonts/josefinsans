@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="662.0000000000001"/>
+  <unicode hex="20AD"/>
+  <anchor x="313.5" y="0.0" name="bottom"/>
+  <anchor x="403.0" y="723.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="66.5" y="438.00000000000006" type="line"/>
+      <point x="54.0" y="344.5" type="line"/>
+      <point x="586.5" y="344.5" type="line"/>
+      <point x="598.5" y="438.00000000000006" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

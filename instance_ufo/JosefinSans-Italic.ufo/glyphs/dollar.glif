@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="579.5"/>
+  <unicode hex="0024"/>
+  <anchor x="275.0" y="0.0" name="bottom"/>
+  <anchor x="331.99999999999994" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="222.49999999999997" y="-68.0" type="line"/>
+      <point x="281.0" y="-68.0" type="line"/>
+      <point x="331.5" y="346.5" type="line"/>
+      <point x="360.5" y="379.5" type="line"/>
+      <point x="410.50000000000006" y="789.5000000000001" type="line"/>
+      <point x="351.99999999999994" y="789.5000000000001" type="line"/>
+      <point x="304.5" y="403.0" type="line"/>
+      <point x="275.5" y="371.0" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

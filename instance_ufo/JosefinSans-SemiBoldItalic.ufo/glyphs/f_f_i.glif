@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="1071.1000000000001"/>
+  <anchor x="174.00000000000003" y="0.0" name="bottom_1"/>
+  <anchor x="576.4000000000001" y="0.0" name="bottom_2"/>
+  <anchor x="912.2" y="0.0" name="bottom_3"/>
+  <anchor x="932.2" y="10.0" name="ogonek"/>
+  <anchor x="220.5" y="558.4999999999999" name="top_1"/>
+  <anchor x="622.9" y="558.4999999999999" name="top_2"/>
+  <anchor x="989.0000000000001" y="636.7" name="top_3"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="402.4"/>
+    <component base="i" xOffset="804.8000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

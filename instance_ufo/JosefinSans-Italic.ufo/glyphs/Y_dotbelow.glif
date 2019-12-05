@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydotbelow" format="2">
+  <advance width="691.5"/>
+  <unicode hex="1EF4"/>
+  <anchor x="293.0" y="-149.0" name="bottom"/>
+  <anchor x="402.5" y="723.0" name="top"/>
+  <anchor x="103.0" y="723.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dotbelowcomb" xOffset="231.0"/>
+  </outline>
+</glyph>

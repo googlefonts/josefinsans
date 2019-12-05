@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="259" y="437" name="_top"/>
+  <anchor x="196" y="624" name="top"/>
+  <outline>
+    <component base="grave"/>
+    <component base="grave" xOffset="167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>348</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="589.0"/>
+  <unicode hex="0046"/>
+  <anchor x="270.0" y="0.0" name="bottom"/>
+  <anchor x="355.5" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="165.49999999999997" y="723.0" type="line"/>
+      <point x="77.0" y="0.0" type="line"/>
+      <point x="177.0" y="0.0" type="line"/>
+      <point x="214.0" y="306.5" type="line"/>
+      <point x="502.0" y="306.5" type="line"/>
+      <point x="514.0" y="399.5" type="line"/>
+      <point x="226.0" y="399.5" type="line"/>
+      <point x="254.00000000000003" y="630.4999999999999" type="line"/>
+      <point x="582.5000000000001" y="630.4999999999999" type="line"/>
+      <point x="594.0" y="723.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

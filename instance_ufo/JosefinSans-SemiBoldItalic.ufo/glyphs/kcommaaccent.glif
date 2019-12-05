@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent" format="2">
+  <advance width="485.40000000000003"/>
+  <unicode hex="0137"/>
+  <anchor x="237.3" y="0.0" name="bottom"/>
+  <anchor x="289.8" y="423.20000000000005" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="comma" xOffset="151.70000000000002" yOffset="-109.39999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

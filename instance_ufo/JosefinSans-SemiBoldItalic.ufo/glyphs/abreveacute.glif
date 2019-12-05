@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute" format="2">
+  <advance width="600.9"/>
+  <unicode hex="1EAF"/>
+  <anchor x="279.3" y="-15.500000000000005" name="bottom"/>
+  <anchor x="506.4" y="7.900000000000002" name="ogonek"/>
+  <anchor x="400.50000000000006" y="853.3" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_acutecomb" xOffset="42.200000000000024" yOffset="25.800000000000004"/>
+  </outline>
+</glyph>

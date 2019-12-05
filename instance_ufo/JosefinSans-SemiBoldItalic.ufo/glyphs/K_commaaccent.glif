@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="687.2"/>
+  <unicode hex="0136"/>
+  <anchor x="266.59999999999997" y="-249.7" name="bottom"/>
+  <anchor x="407.8" y="728.2" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="commaaccentcomb" xOffset="200.79999999999998" yOffset="-23.400000000000006"/>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="397.0"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="262.0" y="242.00000000000003" type="curve"/>
+      <point x="112.5" y="53.0" type="line"/>
+      <point x="101.0" y="148.5" type="line"/>
+      <point x="116.0" y="166.50000000000003"/>
+      <point x="152.49999999999997" y="224.0"/>
+      <point x="167.5" y="242.00000000000003" type="curve"/>
+      <point x="147.99999999999997" y="259.99999999999994"/>
+      <point x="97.0" y="316.49999999999994"/>
+      <point x="77.5" y="334.49999999999994" type="curve"/>
+      <point x="66.0" y="430.5" type="line"/>
+      <point x="89.5" y="410.5"/>
+      <point x="238.5" y="262.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="238.5"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="75.0" y="-214.50000000000003" type="curve"/>
+      <point x="116.0" y="-216.5"/>
+      <point x="165.00000000000003" y="-190.00000000000003"/>
+      <point x="192.50000000000003" y="-152.5" type="curve"/>
+      <point x="162.5" y="-103.5" type="line"/>
+      <point x="141.0" y="-132.49999999999997"/>
+      <point x="117.5" y="-149.0"/>
+      <point x="91.0" y="-148.0" type="curve"/>
+      <point x="66.0" y="-146.99999999999997"/>
+      <point x="43.50000000000001" y="-132.0"/>
+      <point x="46.00000000000001" y="-97.0" type="curve"/>
+      <point x="48.50000000000001" y="-58.0"/>
+      <point x="87.5" y="-28.5"/>
+      <point x="149.5" y="0.4999999999999999" type="curve"/>
+      <point x="200.00000000000003" y="414.0" type="line"/>
+      <point x="106.5" y="414.0" type="line"/>
+      <point x="55.5" y="0.0" type="line"/>
+      <point x="139.5" y="2.499999999999999" type="line"/>
+      <point x="66.0" y="13.5" type="line"/>
+      <point x="-3.000000000000007" y="-12.5"/>
+      <point x="-33.0" y="-69.0"/>
+      <point x="-33.0" y="-110.5" type="curve"/>
+      <point x="-33.0" y="-170.50000000000003"/>
+      <point x="13.999999999999998" y="-211.0"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="-19.000000000000004" yOffset="-25.500000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
