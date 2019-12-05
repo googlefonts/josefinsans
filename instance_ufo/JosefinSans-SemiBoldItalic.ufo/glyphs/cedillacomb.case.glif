@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <anchor x="205.6" y="0.0" name="_bottom"/>
+  <anchor x="177.2" y="-232.0" name="bottom"/>
+  <outline>
+    <component base="cedillacomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>452.33333</real>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="837"/>
+  <unicode hex="00D8"/>
+  <anchor x="395.333" y="0" name="bottom"/>
+  <anchor x="481.5" y="701.667" name="top"/>
+  <anchor x="455.333" y="350.0" name="center"/>
+  <anchor x="491.5" y="0.5" name="ogonek"/>
+  <anchor x="81.167" y="700.0" name="topleft"/>
+  <anchor x="718.833" y="597.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="801.5" y="706.5" type="line"/>
+      <point x="792" y="717" type="line"/>
+      <point x="112.5" y="9.333" type="line"/>
+      <point x="122" y="-1" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

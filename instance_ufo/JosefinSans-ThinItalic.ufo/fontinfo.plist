@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>750</integer>
+    <key>capHeight</key>
+    <integer>702</integer>
+    <key>copyright</key>
+    <string>Copyright 2010 The Josefin Sans Project Authors (https://github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name "Josefin Sans".</string>
+    <key>descender</key>
+    <integer>-248</integer>
+    <key>familyName</key>
+    <string>Josefin Sans</string>
+    <key>italicAngle</key>
+    <integer>-7</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2016/08/26 16:01:20</string>
+    <key>openTypeHheaAscender</key>
+    <integer>750</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-250</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Santiago Orozco</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.typemade.mx</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Typemade</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.typemade.mx</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>750</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>100</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>991</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>271</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-239</integer>
+      <integer>-239</integer>
+      <integer>391</integer>
+      <integer>396</integer>
+      <integer>702</integer>
+      <integer>734</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>13</integer>
+      <integer>19</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>123</integer>
+      <integer>27</integer>
+      <integer>219</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>222</integer>
+      <integer>123</integer>
+      <integer>180</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Josefin Sans Thin Italic</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Thin Italic</string>
+    <key>trademark</key>
+    <string>Josefin Sans is a trademark of Typemade.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>378</integer>
+  </dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="507.0"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="156.0" y="125.49999999999999" type="line"/>
+      <point x="487.0" y="414.0" type="line"/>
+      <point x="373.0" y="414.0" type="line"/>
+      <point x="152.0" y="208.50000000000003" type="line"/>
+    </contour>
+    <contour>
+      <point x="148.5" y="0.0" type="line"/>
+      <point x="199.50000000000003" y="414.0" type="line"/>
+      <point x="106.0" y="414.0" type="line"/>
+      <point x="55.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="269.5" y="237.5" type="line"/>
+      <point x="194.0" y="195.49999999999997" type="line"/>
+      <point x="328.50000000000006" y="0.0" type="line"/>
+      <point x="437.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

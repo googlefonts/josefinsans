@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="443.499" y="443.5" type="curve"/>
+      <point x="482.999" y="441.334"/>
+      <point x="518.333" y="471.5"/>
+      <point x="530.499" y="548.834" type="curve"/>
+      <point x="514.333" y="551.834" type="line"/>
+      <point x="500.999" y="476.5"/>
+      <point x="472.833" y="459.334"/>
+      <point x="445.666" y="461.334" type="curve"/>
+      <point x="417.166" y="463.167"/>
+      <point x="401.999" y="484.167"/>
+      <point x="386.833" y="506" type="curve"/>
+      <point x="370.499" y="530.167"/>
+      <point x="353.999" y="555.334"/>
+      <point x="315.833" y="557.334" type="curve"/>
+      <point x="280.166" y="559.5"/>
+      <point x="239.333" y="528.834"/>
+      <point x="226.833" y="452" type="curve"/>
+      <point x="242.999" y="448.834" type="line"/>
+      <point x="256.499" y="524.167"/>
+      <point x="292.333" y="540.334"/>
+      <point x="314.833" y="539.334" type="curve"/>
+      <point x="342.499" y="537.334"/>
+      <point x="356.499" y="515.667"/>
+      <point x="371.499" y="494" type="curve"/>
+      <point x="388.999" y="469.834"/>
+      <point x="406.499" y="445.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>593.33333</real>
+    </dict>
+  </lib>
+</glyph>

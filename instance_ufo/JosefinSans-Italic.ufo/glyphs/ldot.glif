@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="535.5"/>
+  <unicode hex="0140"/>
+  <anchor x="105.0" y="0.0" name="bottom"/>
+  <anchor x="130.5" y="264.5" name="center"/>
+  <anchor x="188.50000000000003" y="766.5" name="top"/>
+  <anchor x="313.5" y="741.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="periodcentered" xOffset="281.5" yOffset="-2.0000000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

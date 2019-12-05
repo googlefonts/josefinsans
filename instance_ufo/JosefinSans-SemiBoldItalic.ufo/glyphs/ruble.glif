@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="576.7"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="13.3" y="193.1" type="line"/>
+      <point x="1.2999999999999972" y="90.29999999999998" type="line"/>
+      <point x="296.9" y="90.29999999999998" type="line"/>
+      <point x="308.6" y="193.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.7" y="362.90000000000003" type="line"/>
+      <point x="22.0" y="260.1" type="line"/>
+      <point x="281.20000000000005" y="260.1" type="line"/>
+      <point x="292.90000000000003" y="362.90000000000003" type="line"/>
+    </contour>
+    <component base="P" xOffset="-20.900000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

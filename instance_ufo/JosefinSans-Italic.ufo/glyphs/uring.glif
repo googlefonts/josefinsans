@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring" format="2">
+  <advance width="543.0"/>
+  <unicode hex="016F"/>
+  <anchor x="264.5" y="-12.500000000000004" name="bottom"/>
+  <anchor x="424.5" y="7.000000000000001" name="ogonek"/>
+  <anchor x="304.00000000000006" y="454.0" name="top"/>
+  <anchor x="459.5" y="301.50000000000006" name="topright"/>
+  <outline>
+    <contour>
+      <point x="256.0" y="528.5" type="curve" smooth="yes"/>
+      <point x="256.0" y="528.5" type="line" smooth="yes"/>
+      <point x="256.0" y="487.0"/>
+      <point x="288.0" y="453.50000000000006"/>
+      <point x="329.50000000000006" y="453.50000000000006" type="curve" smooth="yes"/>
+      <point x="378.0" y="453.50000000000006"/>
+      <point x="423.0" y="496.0"/>
+      <point x="423.0" y="545.0" type="curve" smooth="yes"/>
+      <point x="423.0" y="586.0"/>
+      <point x="391.50000000000006" y="619.5"/>
+      <point x="350.00000000000006" y="619.5" type="curve" smooth="yes"/>
+      <point x="301.5" y="619.5"/>
+      <point x="256.0" y="577.0"/>
+    </contour>
+    <contour>
+      <point x="303.0" y="532.0" type="curve" smooth="yes"/>
+      <point x="303.0" y="532.0" type="line" smooth="yes"/>
+      <point x="303.0" y="554.5"/>
+      <point x="322.50000000000006" y="572.5000000000001"/>
+      <point x="344.5" y="572.5000000000001" type="curve" smooth="yes"/>
+      <point x="363.5" y="572.5000000000001"/>
+      <point x="376.5" y="558.5"/>
+      <point x="376.5" y="539.5" type="curve" smooth="yes"/>
+      <point x="376.5" y="517.5"/>
+      <point x="357.0" y="499.5"/>
+      <point x="335.5" y="499.5" type="curve" smooth="yes"/>
+      <point x="316.5" y="499.5"/>
+      <point x="303.0" y="514.5"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

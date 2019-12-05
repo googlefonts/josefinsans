@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1015.8000000000001"/>
+  <unicode hex="20A9"/>
+  <anchor x="516.0" y="0.0" name="bottom"/>
+  <anchor x="606.1" y="728.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="82.2" y="459.8" type="line"/>
+      <point x="72.9" y="381.1" type="line"/>
+      <point x="981.4" y="381.1" type="line"/>
+      <point x="990.6999999999999" y="459.8" type="line"/>
+    </contour>
+    <component base="W" xOffset="12.400000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aeacute" format="2">
+  <advance width="818.0"/>
+  <unicode hex="01FD"/>
+  <anchor x="383.4" y="0.0" name="bottom"/>
+  <anchor x="493.7" y="621.3" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="acutecomb" xOffset="250.89999999999998" yOffset="-5.551115123125783e-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

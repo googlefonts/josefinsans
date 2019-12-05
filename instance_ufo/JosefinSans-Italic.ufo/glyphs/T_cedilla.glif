@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="581.5"/>
+  <unicode hex="0162"/>
+  <anchor x="241.5" y="-253.00000000000003" name="bottom"/>
+  <anchor x="304.0" y="350.0" name="center"/>
+  <anchor x="349.5" y="700.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="cedillacomb" xOffset="50.5"/>
+  </outline>
+</glyph>

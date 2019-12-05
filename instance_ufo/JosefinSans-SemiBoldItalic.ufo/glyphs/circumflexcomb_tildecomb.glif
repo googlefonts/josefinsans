@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="259.2" y="438.8" name="_top"/>
+  <anchor x="309.6" y="832.9" name="top"/>
+  <outline>
+    <contour>
+      <point x="370.86699999999996" y="696.2536" type="curve"/>
+      <point x="425.96896000000004" y="692.5025999999999"/>
+      <point x="476.16904" y="748.2012800000001"/>
+      <point x="475.56624" y="832.9824799999999" type="curve"/>
+      <point x="417.23704" y="837.31196" type="line"/>
+      <point x="413.79656" y="795.5758400000001"/>
+      <point x="402.29992" y="762.96164"/>
+      <point x="376.35344" y="764.6909999999999" type="curve"/>
+      <point x="357.92112" y="765.5556799999999"/>
+      <point x="344.08624" y="781.9785200000001"/>
+      <point x="327.93744" y="799.55832" type="curve"/>
+      <point x="308.32384" y="821.7538000000001"/>
+      <point x="286.6886" y="845.9709200000001"/>
+      <point x="252.3876" y="847.70028" type="curve"/>
+      <point x="183.98667999999998" y="852.0297599999999"/>
+      <point x="137.55584" y="788.53072"/>
+      <point x="134.11536" y="710.9714" type="curve"/>
+      <point x="192.44456" y="706.35572" type="line"/>
+      <point x="195.59276000000003" y="746.93488"/>
+      <point x="211.69899999999996" y="777.5274400000001"/>
+      <point x="237.94384" y="776.08428" type="curve"/>
+      <point x="255.79767999999999" y="774.9334"/>
+      <point x="268.48168" y="761.11068"/>
+      <point x="282.03036" y="746.131" type="curve"/>
+      <point x="303.37332000000004" y="723.93552"/>
+      <point x="326.45172" y="698.56144"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

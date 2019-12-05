@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="540.33333"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="492" y="588" type="line"/>
+      <point x="489.5" y="570.333" type="line"/>
+      <point x="592.833" y="570.333" type="line"/>
+      <point x="595.167" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.833" y="457" type="line"/>
+      <point x="474.5" y="439.333" type="line"/>
+      <point x="576.833" y="439.333" type="line"/>
+      <point x="579.167" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="160.667" y="439.333" type="line"/>
+      <point x="163.167" y="457" type="line"/>
+      <point x="47.833" y="457" type="line"/>
+      <point x="45.333" y="439.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="176.667" y="570.333" type="line"/>
+      <point x="179.167" y="588" type="line"/>
+      <point x="63.833" y="588" type="line"/>
+      <point x="61.333" y="570.333" type="line"/>
+    </contour>
+    <component base="P" xOffset="0.667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

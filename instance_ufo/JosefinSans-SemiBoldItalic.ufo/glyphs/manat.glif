@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="765.7"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="405.59999999999997" y="831.0" type="line"/>
+      <point x="303.9" y="0.0" type="line"/>
+      <point x="404.70000000000005" y="0.0" type="line"/>
+      <point x="506.7" y="831.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="576.5999999999999" y="464.0" type="curve" smooth="yes"/>
+      <point x="519.5999999999999" y="-1.799999999999999" type="line"/>
+      <point x="635.5" y="-1.799999999999999" type="line"/>
+      <point x="692.8000000000001" y="466.7" type="line" smooth="yes"/>
+      <point x="712.5" y="626.9"/>
+      <point x="601.4000000000001" y="734.4"/>
+      <point x="444.5" y="734.4" type="curve" smooth="yes"/>
+      <point x="444.5" y="734.4" type="line" smooth="yes"/>
+      <point x="286.9" y="734.4"/>
+      <point x="148.6" y="626.9"/>
+      <point x="129.2" y="466.7" type="curve" smooth="yes"/>
+      <point x="71.89999999999999" y="-1.799999999999999" type="line"/>
+      <point x="186.40000000000003" y="-1.799999999999999" type="line"/>
+      <point x="243.40000000000003" y="464.0" type="line" smooth="yes"/>
+      <point x="253.50000000000003" y="550.1999999999999"/>
+      <point x="334.9" y="621.5999999999999"/>
+      <point x="430.8" y="621.5999999999999" type="curve" smooth="yes"/>
+      <point x="522.1" y="621.5999999999999"/>
+      <point x="586.6999999999999" y="550.1999999999999"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

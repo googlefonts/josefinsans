@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="154" y="0" name="_bottom"/>
+  <anchor x="136" y="-143" name="bottom"/>
+  <outline>
+    <component base="dieresis" xOffset="-111" yOffset="-621"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>372</integer>
+    </dict>
+  </lib>
+</glyph>

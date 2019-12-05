@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="698"/>
+  <unicode hex="20A1"/>
+  <anchor x="426" y="-3" name="bottom"/>
+  <anchor x="459" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="567" y="743" type="line"/>
+      <point x="522" y="743" type="line"/>
+      <point x="133" y="-49" type="line"/>
+      <point x="178" y="-49" type="line"/>
+    </contour>
+    <contour>
+      <point x="703" y="743" type="line"/>
+      <point x="657" y="743" type="line"/>
+      <point x="269" y="-49" type="line"/>
+      <point x="314" y="-49" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

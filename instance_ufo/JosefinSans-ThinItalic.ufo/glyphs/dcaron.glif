@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="606.33333"/>
+  <unicode hex="010F"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="484.5" y="571.167" name="center"/>
+  <anchor x="277.0" y="380.5" name="top"/>
+  <anchor x="564.333" y="717.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="quoteright" xOffset="478.167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

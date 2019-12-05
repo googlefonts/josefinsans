@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="807"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="618" y="758.241" type="curve"/>
+      <point x="575" y="758.241" type="line"/>
+      <point x="450" y="505.49399999999997"/>
+      <point x="326" y="252.74699999999999"/>
+      <point x="201" y="0.0" type="curve"/>
+      <point x="245" y="0.0" type="line"/>
+      <point x="370" y="252.74699999999999"/>
+      <point x="493" y="505.49399999999997"/>
+    </contour>
+    <component base="onesuperior"/>
+    <component base="foursuperior" xOffset="422" yOffset="-326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="457.5"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="107.5" y="-147.5" type="curve"/>
+      <point x="73.5" y="-185.5" type="line"/>
+      <point x="91.99999999999997" y="-207.5"/>
+      <point x="123.5" y="-227.0"/>
+      <point x="174.0" y="-230.0" type="curve"/>
+      <point x="245.49999999999997" y="-234.0"/>
+      <point x="314.49999999999994" y="-207.00000000000003"/>
+      <point x="322.5" y="-140.5" type="curve"/>
+      <point x="329.5" y="-82.5"/>
+      <point x="283.5" y="-49.0"/>
+      <point x="213.0" y="-46.0" type="curve"/>
+      <point x="192.5" y="-45.5"/>
+      <point x="169.5" y="-48.5"/>
+      <point x="154.5" y="-53.0" type="curve"/>
+      <point x="173.00000000000003" y="-77.5" type="line"/>
+      <point x="250.00000000000003" y="0.5000000000000009" type="line"/>
+      <point x="178.99999999999997" y="3.5" type="line"/>
+      <point x="107.49999999999997" y="-50.0" type="line"/>
+      <point x="119.0" y="-97.0" type="line"/>
+      <point x="136.99999999999997" y="-91.5"/>
+      <point x="163.5" y="-87.5"/>
+      <point x="185.0" y="-88.5" type="curve"/>
+      <point x="233.5" y="-91.5"/>
+      <point x="247.0" y="-113.5"/>
+      <point x="244.0" y="-137.0" type="curve"/>
+      <point x="240.0" y="-166.5"/>
+      <point x="205.0" y="-179.99999999999997"/>
+      <point x="171.0" y="-178.5" type="curve"/>
+      <point x="142.0" y="-176.5"/>
+      <point x="119.49999999999999" y="-164.0"/>
+    </contour>
+  </outline>
+</glyph>

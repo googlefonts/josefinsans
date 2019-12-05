@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="521.0"/>
+  <anchor x="94.5" y="0.0" name="bottom_1"/>
+  <anchor x="362.5" y="7.105427357601002e-15" name="bottom_2"/>
+  <anchor x="119.0" y="10.0" name="ogonek"/>
+  <anchor x="151.50000000000003" y="414.0" name="top_1"/>
+  <anchor x="414.0" y="414.0" name="top_2"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="jdotless" xOffset="254.5"/>
+    <component base="acutecomb" xOffset="239.5" yOffset="-2.7755575615628914e-17"/>
+    <component base="acutecomb" xOffset="-34.5" yOffset="-5.551115123125783e-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

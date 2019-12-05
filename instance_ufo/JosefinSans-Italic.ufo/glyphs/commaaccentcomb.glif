@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="109.5" y="19.000000000000004" name="_bottom"/>
+  <anchor x="61.0" y="-222.50000000000003" name="bottom"/>
+  <outline>
+    <component base="comma" xOffset="28.000000000000007" yOffset="11.000000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>200.16667</real>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

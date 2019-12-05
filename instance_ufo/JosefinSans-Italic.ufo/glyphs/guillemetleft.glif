@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="608.5"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="148.00000000000003" y="242.00000000000003" type="curve"/>
+      <point x="297.5" y="53.0" type="line"/>
+      <point x="309.0" y="148.5" type="line"/>
+      <point x="294.0" y="166.50000000000003"/>
+      <point x="257.5" y="224.0"/>
+      <point x="242.50000000000003" y="242.00000000000003" type="curve"/>
+      <point x="262.0" y="259.99999999999994"/>
+      <point x="313.0" y="316.49999999999994"/>
+      <point x="332.5" y="334.49999999999994" type="curve"/>
+      <point x="344.0" y="430.5" type="line"/>
+      <point x="320.50000000000006" y="410.5"/>
+      <point x="171.49999999999997" y="262.0"/>
+    </contour>
+    <contour>
+      <point x="321.00000000000006" y="242.00000000000003" type="curve"/>
+      <point x="471.0" y="53.0" type="line"/>
+      <point x="482.50000000000006" y="148.5" type="line"/>
+      <point x="467.5" y="166.50000000000003"/>
+      <point x="430.5" y="224.0"/>
+      <point x="415.50000000000006" y="242.00000000000003" type="curve"/>
+      <point x="435.0" y="259.99999999999994"/>
+      <point x="486.50000000000006" y="317.5"/>
+      <point x="506.0" y="334.99999999999994" type="curve"/>
+      <point x="517.5" y="430.5" type="line"/>
+      <point x="494.0" y="410.5"/>
+      <point x="344.5" y="262.0"/>
+    </contour>
+  </outline>
+</glyph>

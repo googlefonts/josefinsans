@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="278.7"/>
+  <unicode hex="006A"/>
+  <anchor x="113.6" y="7.105427357601002e-15" name="bottom"/>
+  <anchor x="193.8" y="636.7" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb" xOffset="-9.800000000000002" yOffset="-10.3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

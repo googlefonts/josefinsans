@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="608.5"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="435.5" y="242.00000000000003" type="curve"/>
+      <point x="286.0" y="53.0" type="line"/>
+      <point x="274.5" y="148.5" type="line"/>
+      <point x="289.5" y="166.50000000000003"/>
+      <point x="326.0" y="224.0"/>
+      <point x="341.0" y="242.00000000000003" type="curve"/>
+      <point x="321.5" y="259.99999999999994"/>
+      <point x="270.5" y="316.49999999999994"/>
+      <point x="251.0" y="334.49999999999994" type="curve"/>
+      <point x="239.5" y="430.5" type="line"/>
+      <point x="262.99999999999994" y="410.5"/>
+      <point x="412.0" y="262.0"/>
+    </contour>
+    <contour>
+      <point x="262.5" y="242.00000000000003" type="curve"/>
+      <point x="112.5" y="53.0" type="line"/>
+      <point x="101.0" y="148.5" type="line"/>
+      <point x="116.0" y="166.50000000000003"/>
+      <point x="153.0" y="224.0"/>
+      <point x="168.0" y="242.00000000000003" type="curve"/>
+      <point x="148.5" y="259.99999999999994"/>
+      <point x="97.0" y="317.5"/>
+      <point x="77.5" y="334.99999999999994" type="curve"/>
+      <point x="66.0" y="430.5" type="line"/>
+      <point x="89.5" y="410.5"/>
+      <point x="239.0" y="262.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

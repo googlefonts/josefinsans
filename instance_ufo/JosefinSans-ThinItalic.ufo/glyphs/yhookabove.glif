@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove" format="2">
+  <advance width="422"/>
+  <unicode hex="1EF7"/>
+  <anchor x="304.5" y="-8.667" name="bottom"/>
+  <anchor x="263.83299999999997" y="573.833" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="hookabovecomb" xOffset="108" yOffset="-94"/>
+  </outline>
+</glyph>
