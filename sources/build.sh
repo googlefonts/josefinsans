@@ -9,8 +9,8 @@ mkdir -p ../fonts/ttf
 mkdir -p ../fonts/vf
 fontmake -m JosefinSans.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m JosefinSans.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m JosefinSans-Italic.designspace -o ttf --output-dir ../fonts/ttf/
-fontmake -m JosefinSans-Italic.designspace -o otf --output-dir ../fonts/otf/
+fontmake -m JosefinSans-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m JosefinSans-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m JosefinSans.designspace -o variable --output-path ../fonts/vf/JosefinSans[wght].ttf
