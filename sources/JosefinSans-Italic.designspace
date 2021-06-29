@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="100">
       <map input="100" output="20"/>
+      <map input="200" output="35"/>
       <map input="300" output="50"/>
       <map input="400" output="100"/>
+      <map input="500" output="110"/>
       <map input="600" output="120"/>
       <map input="700" output="150"/>
     </axis>
   </axes>
   <sources>
     <source filename="JosefinSans-ThinItalic.ufo" name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic">
-
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
     <source filename="JosefinSans-LightItalic.ufo" name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
-    
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -33,7 +33,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="../instance_ufo/JosefinSans-ThinItalic.ufo" stylemapfamilyname="Josefin Sans Thin Italic" stylemapstylename="regular">
+    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="instance_ufos/JosefinSans-ThinItalic.ufo" stylemapfamilyname="Josefin Sans Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -41,45 +41,49 @@
       <info/>
       <lib>
         <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>E3E5F2BC-81DA-462E-93BE-62096568DC8F</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Thin</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="../instance_ufo/JosefinSans-LightItalic.ufo" stylemapfamilyname="Josefin Sans Light Italic" stylemapstylename="regular">
+    <instance name="Josefin Sans ExtraLight Italic" familyname="Josefin Sans" stylename="ExtraLight Italic" filename="instance_ufos/JosefinSans-ExtraLightItalic.ufo" stylemapfamilyname="Josefin Sans ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="35"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>E3E5F2BC-81DA-462E-93BE-62096568DC8F</key>
+            <real>0.5</real>
+            <key>master01</key>
+            <real>0.5</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="instance_ufos/JosefinSans-LightItalic.ufo" stylemapfamilyname="Josefin Sans Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -87,45 +91,23 @@
       <info/>
       <lib>
         <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>master01</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="../instance_ufo/JosefinSans-Italic.ufo" stylemapfamilyname="Josefin Sans Italic" stylemapstylename="regular">
+    <instance name="Josefin Sans Roman Italic" familyname="Josefin Sans" stylename="Roman Italic" filename="instance_ufos/JosefinSans-Italic.ufo" stylemapfamilyname="Josefin Sans Roman" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -133,52 +115,77 @@
       <info/>
       <lib>
         <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>156A42CF-5234-4DDE-A174-0E3EC098A6C5</key>
+            <real>0.5</real>
+            <key>master01</key>
+            <real>0.5</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="../instance_ufo/JosefinSans-SemiBoldItalic.ufo" stylemapfamilyname="Josefin Sans SemiBold Italic" stylemapstylename="regular">
+    <instance name="Josefin Sans Medium Italic" familyname="Josefin Sans" stylename="Medium Italic" filename="instance_ufos/JosefinSans-MediumItalic.ufo" stylemapfamilyname="Josefin Sans Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>156A42CF-5234-4DDE-A174-0E3EC098A6C5</key>
+            <real>0.6</real>
+            <key>master01</key>
+            <real>0.4</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="instance_ufos/JosefinSans-SemiBoldItalic.ufo" stylemapfamilyname="Josefin Sans SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
       <kerning/>
       <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>156A42CF-5234-4DDE-A174-0E3EC098A6C5</key>
+            <real>0.7</real>
+            <key>master01</key>
+            <real>0.3</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
     </instance>
-    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="../instance_ufo/JosefinSans-BoldItalic.ufo" stylemapfamilyname="Josefin Sans Bold Italic" stylemapstylename="regular">
+    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="instance_ufos/JosefinSans-BoldItalic.ufo" stylemapfamilyname="Josefin Sans" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
@@ -186,41 +193,19 @@
       <info/>
       <lib>
         <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>156A42CF-5234-4DDE-A174-0E3EC098A6C5</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

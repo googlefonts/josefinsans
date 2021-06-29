@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="100">
       <map input="100" output="20"/>
+      <map input="200" output="35"/>
       <map input="300" output="50"/>
       <map input="400" output="100"/>
+      <map input="500" output="110"/>
       <map input="600" output="120"/>
       <map input="700" output="150"/>
     </axis>
   </axes>
   <sources>
     <source filename="JosefinSans-Thin.ufo" name="Josefin Sans Thin" familyname="Josefin Sans" stylename="Thin">
-
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
     <source filename="JosefinSans-Light.ufo" name="Josefin Sans Light" familyname="Josefin Sans" stylename="Light">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
@@ -56,6 +57,32 @@
         </dict>
       </lib>
     </instance>
+    <instance name="Josefin Sans ExtraLight" familyname="Josefin Sans" stylename="ExtraLight" filename="instance_ufos/JosefinSans-ExtraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="35"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9</key>
+            <real>0.5</real>
+            <key>93649EC8-ADF5-4C20-AD08-3ED15854CD33</key>
+            <real>0.5</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
     <instance name="Josefin Sans Light" familyname="Josefin Sans" stylename="Light" filename="instance_ufos/JosefinSans-Light.ufo">
       <location>
         <dimension name="Weight" xvalue="50"/>
@@ -80,7 +107,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Regular" familyname="Josefin Sans" stylename="Regular" filename="instance_ufos/JosefinSans-Regular.ufo">
+    <instance name="Josefin Sans Roman" familyname="Josefin Sans" stylename="Roman" filename="instance_ufos/JosefinSans-Roman.ufo">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -101,6 +128,32 @@
           <false/>
           <key>com.schriftgestaltung.weight</key>
           <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Josefin Sans Medium" familyname="Josefin Sans" stylename="Medium" filename="instance_ufos/JosefinSans-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4C85334C-E1D4-4EB0-A0B2-9D58DDEA71D9</key>
+            <real>0.4</real>
+            <key>UUID1</key>
+            <real>0.6</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
           <key>com.schriftgestaltung.width</key>
           <string>Medium (normal)</string>
         </dict>
@@ -132,7 +185,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Josefin Sans Bold" familyname="Josefin Sans" stylename="Bold" filename="instance_ufos/JosefinSans-Bold.ufo">
+    <instance name="Josefin Sans Bold" familyname="Josefin Sans" stylename="Bold" filename="instance_ufos/JosefinSans-Bold.ufo" stylemapfamilyname="Josefin Sans" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
@@ -157,41 +210,4 @@
       </lib>
     </instance>
   </instances>
-  <lib>
-    <dict>
-      <key>GSDimensionPlugin.Dimensions</key>
-      <dict>
-        <key>UUID0</key>
-        <dict>
-          <key>HH</key>
-          <string>13</string>
-          <key>HV</key>
-          <string>14</string>
-          <key>OH</key>
-          <string>13</string>
-          <key>OV</key>
-          <string>14</string>
-        </dict>
-        <key>UUID1</key>
-        <dict>
-          <key>HH</key>
-          <string>140</string>
-          <key>HV</key>
-          <string>145</string>
-          <key>OH</key>
-          <string>140</string>
-          <key>OV</key>
-          <string>150</string>
-          <key>nV</key>
-          <string>140</string>
-          <key>nd</key>
-          <string>109</string>
-          <key>oH</key>
-          <string>114</string>
-          <key>oV</key>
-          <string>141</string>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </designspace>
