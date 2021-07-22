@@ -16,9 +16,7 @@ build: build.stamp sources/config.yaml $(SOURCES)
 venv: venv/touchfile
 
 build.stamp: venv
-	. venv/bin/activate; gftools builder sources/config.yaml; python sources/postprocessing.py  && touch build.stamp
-	mv fonts/variable/JosefinSans[wght].ttf.fix fonts/variable/JosefinSans[wght].ttf
-	mv fonts/variable/JosefinSans-Italic[wght].ttf.fix fonts/variable/JosefinSans-Italic[wght].ttf
+	. venv/bin/activate; gftools builder sources/config.yaml  && touch build.stamp
 	
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv

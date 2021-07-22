@@ -1,6 +1,6 @@
 sources:
-  - test/JosefinSans.glyphs
-  - test/JosefinSans-Italic.glyphs
+  - JosefinSans.designspace
+  - JosefinSans-Italic.designspace
 axisOrder:
   - wght
   - ital
@@ -58,5 +58,3 @@ stat:
     values:
     - name: Italic
       value: 1
-autohintTTF: False
-buildStatic: False
