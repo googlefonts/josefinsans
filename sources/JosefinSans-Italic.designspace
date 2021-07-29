@@ -1,228 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="100">
       <map input="100" output="20"/>
+      <map input="200" output="35"/>
       <map input="300" output="50"/>
       <map input="400" output="100"/>
+      <map input="500" output="110"/>
       <map input="600" output="120"/>
       <map input="700" output="150"/>
     </axis>
   </axes>
   <sources>
-    <source filename="JosefinSans-ThinItalic.ufo" name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic">
-
+    <source filename="JosefinSans-ThinItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
-    <source filename="JosefinSans-LightItalic.ufo" name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic">
+    <source filename="JosefinSans-LightItalic.ufo">
       <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
       <info copy="1"/>
-    
+      <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
     </source>
-    <source filename="JosefinSans-BoldItalic.ufo" name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic">
+    <source filename="JosefinSans-BoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Josefin Sans Thin Italic" familyname="Josefin Sans" stylename="Thin Italic" filename="../instance_ufo/JosefinSans-ThinItalic.ufo" stylemapfamilyname="Josefin Sans Thin Italic" stylemapstylename="regular">
+    <instance name="JosefinSans-ThinItalic" familyname="Josefin Sans" stylename="Thin Italic" filename="instance_ufos/JosefinSans-ThinItalic.ufo" spostscriptfontname="JosefinSans-ThinItalic"  stylemapfamilyname="Josefin Sans Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Josefin Sans Light Italic" familyname="Josefin Sans" stylename="Light Italic" filename="../instance_ufo/JosefinSans-LightItalic.ufo" stylemapfamilyname="Josefin Sans Light Italic" stylemapstylename="regular">
+    <instance name="JosefinSans-ExtraLightItalic" familyname="Josefin Sans" stylename="ExtraLight Italic" filename="instance_ufos/JosefinSans-ExtraLightItalic.ufo" spostscriptfontname="JosefinSans-ExtraLightItalic"  stylemapfamilyname="Josefin Sans ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="35"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="JosefinSans-LightItalic" familyname="Josefin Sans" stylename="Light Italic" filename="instance_ufos/JosefinSans-LightItalic.ufo" postscriptfontname="JosefinSans-LightItalic"  stylemapfamilyname="Josefin Sans Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Josefin Sans Italic" familyname="Josefin Sans" stylename="Italic" filename="../instance_ufo/JosefinSans-Italic.ufo" stylemapfamilyname="Josefin Sans Italic" stylemapstylename="regular">
+    <instance name="JosefinSans-Italic" familyname="Josefin Sans" stylename="Italic" filename="instance_ufos/JosefinSans-Italic.ufo" postscriptfontname="JosefinSans-Italic"  stylemapfamilyname="Josefin Sans" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Josefin Sans SemiBold Italic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="../instance_ufo/JosefinSans-SemiBoldItalic.ufo" stylemapfamilyname="Josefin Sans SemiBold Italic" stylemapstylename="regular">
+    <instance name="JosefinSans-MediumItalic" familyname="Josefin Sans" stylename="Medium Italic" filename="instance_ufos/JosefinSans-MediumItalic.ufo" postscriptfontname="JosefinSans-MediumItalic"  stylemapfamilyname="Josefin Sans Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="JosefinSans-SemiBoldItalic" familyname="Josefin Sans" stylename="SemiBold Italic" filename="instance_ufos/JosefinSans-SemiBoldItalic.ufo" postscriptfontname="JosefinSans-SemiBoldItalic"  stylemapfamilyname="Josefin Sans SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Josefin Sans Bold Italic" familyname="Josefin Sans" stylename="Bold Italic" filename="../instance_ufo/JosefinSans-BoldItalic.ufo" stylemapfamilyname="Josefin Sans Bold Italic" stylemapstylename="regular">
+    <instance name="JosefinSans-BoldItalic" familyname="Josefin Sans" stylename="Bold Italic" filename="instance_ufos/JosefinSans-BoldItalic.ufo" postscriptfontname="JosefinSans-BoldItalic"  stylemapfamilyname="Josefin Sans" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaLineGap</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>hheaAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>750</integer>
-            </array>
-            <array>
-              <string>hheaDescender</string>
-              <integer>-250</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>271</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>991</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
   </instances>
 </designspace>
